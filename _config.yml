@@ -11,10 +11,10 @@ title                    : "Sebastián Vallejo Vera Ph.D."
 title_separator          : "-"
 name                     : &name "Sebastián Vallejo Vera Ph.D."
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://www.svallejovera.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "svallejovera/svallejovera.github.io"
-teaser                   : "images/IMG_9417.JPG"
+teaser                   : "/images/IMG_9417.JPG"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=1TOKuVkAAAAJ&hl=en"
-  email            :
+  email            : "svallejovera@tec.mx"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

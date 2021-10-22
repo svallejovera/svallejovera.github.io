@@ -8,5 +8,4 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-<embed src="https://username.github.io/mydoc.pdf" type="application/pdf"/>
+<embed src="https://svallejovera/svallejovera.github.io/files/vallejo cv.pdf" type="application/pdf"/>
