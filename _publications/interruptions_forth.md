@@ -2,7 +2,7 @@
 title: "The Politics of Interruptions: Gendered Disruptions of Legislative Speeches"
 collection: publications
 permalink: /publication/interruptions_forth
-date: <i>Forthcoming<i>
+date: 2020-01-01
 venue: 'Journal of Politics'
 paperurl: '/files/interruptions_forth.pdf'
 link: 'https://doi.org/10.1086/717083'
