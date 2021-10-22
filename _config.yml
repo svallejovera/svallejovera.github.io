@@ -57,12 +57,12 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : svallejovera
 facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 : IMG_9417.JPG # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Sebastián Vallejo Vera, Ph.D."
-  avatar           : "profile.png"
+  avatar           : "IMG_9417.JPG"
   bio              : "Assistant Professor - Tecnológico de Monterrey"
   location         : "Ciudad de México / México"
   employer         :
