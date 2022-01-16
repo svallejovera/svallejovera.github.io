@@ -18,7 +18,7 @@ You can find my CV here.
 
 1. Vallejo Vera , Sebastián (with Analía Gómez Vidal). *Forthcoming*. "The Politics of Interruptions: Gendered Disruptions of Legislative Speeches." *Journal of Politics*. [DOI](https://doi.org/10.1086/717083) [PDF](https://svallejovera.github.io/files/interruptions_forth.pdf) [Replication Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/6IRAEM)
 
-2. Vallejo Vera, Sebastián (with Angélica Abad, Raúl Aldaz, and Diana Dávila Gordillo). (2021). "Believe in me: Parties’ Strategies During a Pandemic, Evidence from Ecuador." *Journal of Politics in Latin America*, 13(3):419-441. https://doi:10.1177/1866802X211058742. [PDF](https://svallejovera.github.io/files/interruptions_forth.pdf)
+2. Vallejo Vera, Sebastián (with Angélica Abad, Raúl Aldaz, and Diana Dávila Gordillo). (2021). "Believe in me: Parties’ Strategies During a Pandemic, Evidence from Ecuador." *Journal of Politics in Latin America*, 13(3):419-441. [DOI](https://doi:10.1177/1866802X211058742) [PDF](https://svallejovera.github.io/files/interruptions_forth.pdf)
 
 3. Vallejo Vera, Sebastián (with Joan C. Timoneda). (2021). "Will I die of coronavirus? Google Trends data reveal that politics determine virus fears." *Plos one*, 16(10), e0258189. [DOI](https://doi.org/10.1371/journal.pone.0258189) [PDF](https://svallejovera.github.io/files/will_i_die_2021.pdf)
 
@@ -35,15 +35,16 @@ You can find my CV here.
 1. Vallejo Vera, Sebastián (with Analía Gómez Vidal). 2021. ["Ecuador: Individual Incentives and the Gendered Path to Power"](https://books.google.com.mx/books?id=Oi5CEAAAQBAJ&pg=PA260&lpg=PA260&dq=Ecuador:+Individual+Incentives+and+the+Gendered+Path+to+Power&source=bl&ots=NiaGM0Z1Z8&sig=ACfU3U1ilva5tyvciXzZM44w81X8pNK1sw&hl=en&sa=X&ved=2ahUKEwjHne6Ogt3zAhU3k2oFHTKEBSoQ6AF6BAgMEAM#v=onepage&q=Ecuador\%3A\%20Individual\%20Incentives\%20and\%20the\%20Gendered\%20Path\%20to\%20Power&f=false) in: Back, Hanna, Marc Debus and Jorge M. Fernandes (*Eds.*). *The Politics of Legislative Debates Around the World.* Oxford University Press. 
 
 ## Books
-Vallejo Vera, Sebastián. 2018. [Angostura, 30-S y la (re)militarización de la seguridad interna en Ecuador](http://hdl.handle.net/10644/6551). Corporación Editora Nacional – Ecuador: 978-9978-84-997-2. [PDF](https://svallejovera.github.io/files/angostura_2018.pdf)
+
+1. Vallejo Vera, Sebastián. 2018. [Angostura, 30-S y la (re)militarización de la seguridad interna en Ecuador](http://hdl.handle.net/10644/6551). Corporación Editora Nacional – Ecuador: 978-9978-84-997-2. [PDF](https://svallejovera.github.io/files/angostura_2018.pdf)
 
 ## Working Papers
 
-Vallejo Vera, Sebastián (with Eduardo Alemán and Juan Pablo Micozzi). "Congressional Committees, Electoral Connections, and Legislative Speech." (Under Review). 
+1. Vallejo Vera, Sebastián (with Eduardo Alemán and Juan Pablo Micozzi). "Congressional Committees, Electoral Connections, and Legislative Speech." (Under Review). 
 
-Vallejo Vera, Sebastián. ["Rage within the Machine: Activation of Racist Content in Social Media."](https://ilcss.umd.edu/static/6d7c40d89a13fef276f407e9ed1a2520/rage.pdf) iLCSS Working Paper \#9. (Revise and Resubmit) Latin American Politics and Society. 
+2. Vallejo Vera, Sebastián. ["Rage within the Machine: Activation of Racist Content in Social Media."](https://ilcss.umd.edu/static/6d7c40d89a13fef276f407e9ed1a2520/rage.pdf) iLCSS Working Paper \#9. (Revise and Resubmit) Latin American Politics and Society. 
 
-Vallejo Vera, Sebastián (with Christopher Currin and Ali Khaledi-Nasab). ["Depolarization of echo chambers by random dynamical nudge."](https://arxiv.org/pdf/2101.04079.pdf) arXiv preprint arXiv:2101.04079. (Revise and Resubmit) Scientific Reports. 
+3. Vallejo Vera, Sebastián (with Christopher Currin and Ali Khaledi-Nasab). ["Depolarization of echo chambers by random dynamical nudge."](https://arxiv.org/pdf/2101.04079.pdf) arXiv preprint arXiv:2101.04079. (Revise and Resubmit) Scientific Reports. 
 
-Vallejo Vera, Sebastián. "Performance of Maximum Likelihood Fixed Effects Estimation in Panel Data with Sample Selection Bias." (Under Review).
+4. Vallejo Vera, Sebastián. "Performance of Maximum Likelihood Fixed Effects Estimation in Panel Data with Sample Selection Bias." (Under Review).
 
