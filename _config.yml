@@ -1,6 +1,7 @@
 title: Researcher
 url: "https://www.svallejovera.com"
 baseurl: "/researcher"
+repository: svallejovera/svallejovera.github.io
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
