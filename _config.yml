@@ -1,6 +1,6 @@
 title: Researcher
 url: "https://www.svallejovera.com"
-baseurl: "/researcher"
+baseurl: "https://www.svallejovera.com"
 repository: svallejovera/svallejovera.github.io
 
 markdown: kramdown
