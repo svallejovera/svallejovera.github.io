@@ -1,7 +1,7 @@
 title: Sebastián Vallejo Vera
 description: The Webpage of Sebastián Vallejo Vera, Ph.D.
 url: "https://www.svallejovera.com"
-baseurl: "https://www.svallejovera.com"
+baseurl: "www.svallejovera.com"
 repository: svallejovera/svallejovera.github.io
 
 markdown: kramdown
