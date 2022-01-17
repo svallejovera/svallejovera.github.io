@@ -17,9 +17,9 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "About"
-   link: "/researcher/"
  - name: "Resume"
    link: "vallejo cv.pdf"
  - name: "Contact"
    link: "contact"
+ - name: "iLCSS"
+   link: "https://ilcss.umd.edu/"
