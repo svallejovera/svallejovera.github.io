@@ -22,7 +22,7 @@ You can find my CV [here](https://svallejovera.github.io/vallejo%20cv.pdf).
 
 3. Vallejo Vera, Sebastián (with Joan C. Timoneda). (2021). "Will I die of coronavirus? Google Trends data reveal that politics determine virus fears." *Plos one*, 16(10), e0258189. [DOI](https://doi.org/10.1371/journal.pone.0258189) [PDF](https://svallejovera.github.io/files/will_i_die_2021.pdf)
 
-4. Vallejo Vera, Sebasti\'an (with Ernesto Calvo and Paula Clerici). (2021). "Ciencia y política en tiempos del covid-19." *Política y gobierno*, 28(2). [HTTP](http://politicaygobierno.cide.edu/index.php/pyg/article/view/1542) [PDF](https://svallejovera.github.io/files/ciencia_2021.pdf)
+4. Vallejo Vera, Sebastián (with Ernesto Calvo and Paula Clerici). (2021). "Ciencia y política en tiempos del covid-19." *Política y gobierno*, 28(2). [HTTP](http://politicaygobierno.cide.edu/index.php/pyg/article/view/1542) [PDF](https://svallejovera.github.io/files/ciencia_2021.pdf)
 
 5. Vallejo Vera, Sebastián (with Joan C. Timoneda). (2021). "How do shocks realign interest group lobbying in congress? Evidence from Ecuador." *The Journal of Legislative Studies*, 1-39. [DOI](https://doi.org/10.1080/13572334.2021.1924434) [PDF](https://svallejovera.github.io/files/shocks_2021.pdf)
 
