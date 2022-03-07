@@ -36,7 +36,7 @@ You can find my CV [here](https://svallejovera.github.io/vallejo%20cv.pdf).
 
 ## Books
 
-1. Vallejo Vera, Sebastián. 2018. [Angostura, 30-S y la (re)militarización de la seguridad interna en Ecuador](http://hdl.handle.net/10644/6551). Corporación Editora Nacional – Ecuador: 978-9978-84-997-2. [PDF](https://svallejovera.github.io/files/angostura_2018.pdf)
+1. Vallejo Vera, Sebastián. 2018. [Angostura, 30-S y la (re)militarización de la seguridad interna en Ecuador](http://hdl.handle.net/10644/6551). Corporación Editora Nacional – Ecuador: 978-9978-84-997-2. [PDF](https://svallejovera.github.io/files/angsotura_2018.pdf)
 
 ## Working Papers
 
