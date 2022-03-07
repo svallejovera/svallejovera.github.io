@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="C1461B40-57E5-4DBD-B37A-82D96282E372_1_105_c.jpeg">
 
-Welcome! I am an Assistant Professor at the School of Government at the Instituto Tecnológico y de Estudios Superiores de Monterrey, México. I am also the director of the interdisciplinary Laboratory of Computational Social Science - México ([iLCSS](https://ilcss.umd.edu/)). Previously, I was a Post-Doctoral Fellow in the Department of Political Science at the University of Houston. I earned my Ph.D. in Political Science from the University of Maryland, College Park.
+Welcome! I am an Assistant Professor at the School of Social Science and Government at the Tecnológico de Monterrey, México. I am also the director of the interdisciplinary Laboratory of Computational Social Science - México ([iLCSS](https://ilcss.umd.edu/)). Previously, I was a Post-Doctoral Fellow in the Department of Political Science at the University of Houston. I earned my Ph.D. in Political Science from the University of Maryland, College Park.
 
 ## Research Interest
 
@@ -32,7 +32,7 @@ You can find my CV [here](https://svallejovera.github.io/vallejo%20cv.pdf).
 
 ## Book Chapters
 
-1. Vallejo Vera, Sebastián (with Analía Gómez Vidal). 2021. ["Ecuador: Individual Incentives and the Gendered Path to Power"](https://books.google.com.mx/books?id=Oi5CEAAAQBAJ&pg=PA260&lpg=PA260&dq=Ecuador:+Individual+Incentives+and+the+Gendered+Path+to+Power&source=bl&ots=NiaGM0Z1Z8&sig=ACfU3U1ilva5tyvciXzZM44w81X8pNK1sw&hl=en&sa=X&ved=2ahUKEwjHne6Ogt3zAhU3k2oFHTKEBSoQ6AF6BAgMEAM#v=onepage&q=Ecuador\%3A\%20Individual\%20Incentives\%20and\%20the\%20Gendered\%20Path\%20to\%20Power&f=false) in: Back, Hanna, Marc Debus and Jorge M. Fernandes (*Eds.*). *The Politics of Legislative Debates Around the World.* Oxford University Press. 
+1. Vallejo Vera, Sebastián (with Analía Gómez Vidal). 2021. ["Ecuador: Individual Incentives and the Gendered Path to Power"](https://books.google.com.mx/books?id=Oi5CEAAAQBAJ&pg=PA260&lpg=PA260&dq=Ecuador:+Individual+Incentives+and+the+Gendered+Path+to+Power&source=bl&ots=NiaGM0Z1Z8&sig=ACfU3U1ilva5tyvciXzZM44w81X8pNK1sw&hl=en&sa=X&ved=2ahUKEwjHne6Ogt3zAhU3k2oFHTKEBSoQ6AF6BAgMEAM#v=onepage&q=Ecuador\%3A\%20Individual\%20Incentives\%20and\%20the\%20Gendered\%20Path\%20to\%20Power&f=false) in: Back, Hanna, Marc Debus and Jorge M. Fernandes (*Eds.*). *The Politics of Legislative Debates Around the World.* Oxford University Press. [PDF]
 
 ## Books
 
@@ -40,7 +40,7 @@ You can find my CV [here](https://svallejovera.github.io/vallejo%20cv.pdf).
 
 ## Working Papers
 
-1. Vallejo Vera, Sebastián (with Eduardo Alemán and Juan Pablo Micozzi). "Congressional Committees, Electoral Connections, and Legislative Speech." (Under Review). 
+1. Vallejo Vera, Sebastián (with Eduardo Alemán and Juan Pablo Micozzi). "Congressional Committees, Electoral Connections, and Legislative Speech." (Revise and Resubmit) Political Research Quarterly. 
 
 2. Vallejo Vera, Sebastián. ["Rage within the Machine: Activation of Racist Content in Social Media."](https://ilcss.umd.edu/static/6d7c40d89a13fef276f407e9ed1a2520/rage.pdf) iLCSS Working Paper \#9. (Revise and Resubmit) Latin American Politics and Society. 
 
