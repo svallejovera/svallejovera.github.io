@@ -40,15 +40,17 @@ You can find my CV [here](https://svallejovera.github.io/vallejo%20cv.pdf).
 
 ## Working Papers
 
-1. Vallejo Vera, Sebastián (with Diana Dávila Gordillo and Joan C. Timoneda). "Machines Do See Color: How Transformers Outperform Other Approaches in Classifying Overt and Covert Racism in Text." (Under Review).
+1. Vallejo Vera, Sebastián (with Angélica Abad, Raúl Aldaz, and Diana Dávila Gordillo). "An Unwelcomed Deja-Vu: Ecuadorian politics in 2021." (Revise and Resubmit) Revista de Ciencia Política.
 
-2. Vallejo Vera, Sebastián (with Joan C. Timoneda). "Pay (Self-)Attention: How Transformer Models Increase Performance in Text Classification Tasks." (Under Review).
+2. Vallejo Vera, Sebastián (with Diana Dávila Gordillo and Joan C. Timoneda). "Machines Do See Color: How Transformers Outperform Other Approaches in Classifying Overt and Covert Racism in Text." (Under Review).
 
-3. Vallejo Vera, Sebastián (with Eduardo Alemán and Juan Pablo Micozzi). "Congressional Committees, Electoral Connections, and Legislative Speech." (Revise and Resubmit) Political Research Quarterly. 
+3. Vallejo Vera, Sebastián (with Joan C. Timoneda). "Pay (Self-)Attention: How Transformer Models Increase Performance in Text Classification Tasks." (Under Review).
 
-4. Vallejo Vera, Sebastián. ["Rage within the Machine: Activation of Racist Content in Social Media."](https://ilcss.umd.edu/static/6d7c40d89a13fef276f407e9ed1a2520/rage.pdf) iLCSS Working Paper \#9. (Revise and Resubmit) Latin American Politics and Society. 
+4. Vallejo Vera, Sebastián (with Eduardo Alemán and Juan Pablo Micozzi). "Congressional Committees, Electoral Connections, and Legislative Speech." (Revise and Resubmit) Political Research Quarterly. 
 
-5. Vallejo Vera, Sebastián (with Christopher Currin and Ali Khaledi-Nasab). ["Depolarization of echo chambers by random dynamical nudge."](https://arxiv.org/pdf/2101.04079.pdf) arXiv preprint arXiv:2101.04079. (Revise and Resubmit) Scientific Reports. 
+5. Vallejo Vera, Sebastián. ["Rage within the Machine: Activation of Racist Content in Social Media."](https://ilcss.umd.edu/static/6d7c40d89a13fef276f407e9ed1a2520/rage.pdf) iLCSS Working Paper \#9. (Revise and Resubmit) Latin American Politics and Society. 
 
-6. Vallejo Vera, Sebastián. "Performance of Maximum Likelihood Fixed Effects Estimation in Panel Data with Sample Selection Bias." (Under Review).
+6. Vallejo Vera, Sebastián (with Christopher Currin and Ali Khaledi-Nasab). ["Depolarization of echo chambers by random dynamical nudge."](https://arxiv.org/pdf/2101.04079.pdf) arXiv preprint arXiv:2101.04079. (Revise and Resubmit) Scientific Reports. 
+
+7. Vallejo Vera, Sebastián. "Performance of Maximum Likelihood Fixed Effects Estimation in Panel Data with Sample Selection Bias." (Under Review).
 
