@@ -16,7 +16,9 @@ You can find my CV [here](https://svallejovera.github.io/vallejo%20cv.pdf).
 
 ## Peer-Reviewed Publications
 
-1. Vallejo Vera , Sebastián (with Analía Gómez Vidal). *Forthcoming*. "The Politics of Interruptions: Gendered Disruptions of Legislative Speeches." *Journal of Politics*. [DOI](https://doi.org/10.1086/717083) [PDF](https://svallejovera.github.io/files/interruptions_forth.pdf) [Replication Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/6IRAEM)
+1. Vallejo Vera, Sebastián. *Forthcoming*. "Rage within the Machine: Activation of Racist Content in Social Media." *Latin American Politics and Society*. [Link to working paper](https://ilcss.umd.edu/static/6d7c40d89a13fef276f407e9ed1a2520/rage.pdf) 
+ 
+3. Vallejo Vera , Sebastián (with Analía Gómez Vidal). *Forthcoming*. "The Politics of Interruptions: Gendered Disruptions of Legislative Speeches." *Journal of Politics*. [DOI](https://doi.org/10.1086/717083) [PDF](https://svallejovera.github.io/files/interruptions_forth.pdf) [Replication Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/6IRAEM)
 
 2. Vallejo Vera, Sebastián (with Angélica Abad, Raúl Aldaz, and Diana Dávila Gordillo). (2021). "Believe in me: Parties’ Strategies During a Pandemic, Evidence from Ecuador." *Journal of Politics in Latin America*, 13(3):419-441. [DOI](https://doi:10.1177/1866802X211058742) [PDF](https://svallejovera.github.io/files/interruptions_forth.pdf)
 
