@@ -20,7 +20,7 @@ You can find my CV [here](https://svallejovera.github.io/vallejo%20cv.pdf).
  
 3. Vallejo Vera , Sebastián (with Analía Gómez Vidal). *Forthcoming*. "The Politics of Interruptions: Gendered Disruptions of Legislative Speeches." *Journal of Politics*. [DOI](https://doi.org/10.1086/717083) [PDF](https://svallejovera.github.io/files/interruptions_forth.pdf) [Replication Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/6IRAEM) [Media](https://jop.blogs.uni-hamburg.de/im-speaking-interruptions-in-legislative-speeches-and-womens-strategic-behavior/)
 
-4. Vallejo Vera, Sebasti\'an (with Christopher Currin and Ali Khaledi-Nasab). (2022). "Depolarization of echo chambers by random dynamical nudge." *Scientific Reports*, 12, 9234. [DOI](https://doi.org/10.1038/s41598-022-12494-w) [PDF](https://www.nature.com/articles/s41598-022-12494-w.pdf)
+4. Vallejo Vera, Sebastián (with Christopher Currin and Ali Khaledi-Nasab). (2022). "Depolarization of echo chambers by random dynamical nudge." *Scientific Reports*, 12, 9234. [DOI](https://doi.org/10.1038/s41598-022-12494-w) [PDF](https://www.nature.com/articles/s41598-022-12494-w.pdf)
 
 2. Vallejo Vera, Sebastián (with Angélica Abad, Raúl Aldaz, and Diana Dávila Gordillo). (2021). "Believe in me: Parties’ Strategies During a Pandemic, Evidence from Ecuador." *Journal of Politics in Latin America*, 13(3):419-441. [DOI](https://doi:10.1177/1866802X211058742) [PDF](https://svallejovera.github.io/files/Believe_in_me.pdf)
 
