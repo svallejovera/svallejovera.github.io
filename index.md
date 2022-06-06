@@ -18,11 +18,13 @@ You can find my CV [here](https://svallejovera.github.io/vallejo%20cv.pdf).
 
 1. Vallejo Vera, Sebastián. *Forthcoming*. "Rage within the Machine: Activation of Racist Content in Social Media." *Latin American Politics and Society*. [Link to working paper](https://ilcss.umd.edu/static/6d7c40d89a13fef276f407e9ed1a2520/rage.pdf) 
  
-3. Vallejo Vera , Sebastián (with Analía Gómez Vidal). *Forthcoming*. "The Politics of Interruptions: Gendered Disruptions of Legislative Speeches." *Journal of Politics*. [DOI](https://doi.org/10.1086/717083) [PDF](https://svallejovera.github.io/files/interruptions_forth.pdf) [Replication Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/6IRAEM)
+3. Vallejo Vera , Sebastián (with Analía Gómez Vidal). *Forthcoming*. "The Politics of Interruptions: Gendered Disruptions of Legislative Speeches." *Journal of Politics*. [DOI](https://doi.org/10.1086/717083) [PDF](https://svallejovera.github.io/files/interruptions_forth.pdf) [Replication Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/6IRAEM) [Media](https://jop.blogs.uni-hamburg.de/im-speaking-interruptions-in-legislative-speeches-and-womens-strategic-behavior/)
 
-2. Vallejo Vera, Sebastián (with Angélica Abad, Raúl Aldaz, and Diana Dávila Gordillo). (2021). "Believe in me: Parties’ Strategies During a Pandemic, Evidence from Ecuador." *Journal of Politics in Latin America*, 13(3):419-441. [DOI](https://doi:10.1177/1866802X211058742) [PDF](https://svallejovera.github.io/files/interruptions_forth.pdf)
+4. Vallejo Vera, Sebasti\'an (with Christopher Currin and Ali Khaledi-Nasab). (2022). "Depolarization of echo chambers by random dynamical nudge." *Scientific Reports*, 12, 9234. [DOI](https://doi.org/10.1038/s41598-022-12494-w) [PDF](https://www.nature.com/articles/s41598-022-12494-w.pdf)
 
-3. Vallejo Vera, Sebastián (with Joan C. Timoneda). (2021). "Will I die of coronavirus? Google Trends data reveal that politics determine virus fears." *Plos one*, 16(10), e0258189. [DOI](https://doi.org/10.1371/journal.pone.0258189) [PDF](https://svallejovera.github.io/files/will_i_die_2021.pdf)
+2. Vallejo Vera, Sebastián (with Angélica Abad, Raúl Aldaz, and Diana Dávila Gordillo). (2021). "Believe in me: Parties’ Strategies During a Pandemic, Evidence from Ecuador." *Journal of Politics in Latin America*, 13(3):419-441. [DOI](https://doi:10.1177/1866802X211058742) [PDF](https://svallejovera.github.io/files/Adab et al - Believe in me.pdf)
+
+3. Vallejo Vera, Sebastián (with Joan C. Timoneda). (2021). "Will I die of coronavirus? Google Trends data reveal that politics determine virus fears." *Plos one*, 16(10), e0258189. [DOI](https://doi.org/10.1371/journal.pone.0258189) [PDF](https://svallejovera.github.io/files/will_i_die_2021.pdf) [Media](https://www.psypost.org/2021/11/analysis-of-google-search-data-indicates-politics-played-a-major-role-in-shaping-covid-19-fears-in-the-united-states-62083)
 
 4. Vallejo Vera, Sebastián (with Ernesto Calvo and Paula Clerici). (2021). "Ciencia y política en tiempos del covid-19." *Política y gobierno*, 28(2). [HTTP](http://politicaygobierno.cide.edu/index.php/pyg/article/view/1542) [PDF](https://svallejovera.github.io/files/ciencia_2021.pdf)
 
@@ -42,17 +44,13 @@ You can find my CV [here](https://svallejovera.github.io/vallejo%20cv.pdf).
 
 ## Working Papers
 
-1. Vallejo Vera, Sebastián (with Angélica Abad, Raúl Aldaz, and Diana Dávila Gordillo). "An Unwelcomed Deja-Vu: Ecuadorian politics in 2021." (Revise and Resubmit) Revista de Ciencia Política.
+1. Vallejo Vera, Sebastián (with Angélica Abad, Raúl Aldaz, and Diana Dávila Gordillo). "An Unwelcomed Deja-Vu: Ecuadorian politics in 2021." (Accepted) Revista de Ciencia Política.
+
+2. Vallejo Vera, Sebastián (with Eduardo Alemán and Juan Pablo Micozzi). "Congressional Committees, Electoral Connections, and Legislative Speech." (Accepted) Political Research Quarterly. 
 
 2. Vallejo Vera, Sebastián (with Diana Dávila Gordillo and Joan C. Timoneda). "Machines Do See Color: How Transformers Outperform Other Approaches in Classifying Overt and Covert Racism in Text." (Under Review).
 
-3. Vallejo Vera, Sebastián (with Joan C. Timoneda). "Pay (Self-)Attention: How Transformer Models Increase Performance in Text Classification Tasks." (Under Review).
-
-4. Vallejo Vera, Sebastián (with Eduardo Alemán and Juan Pablo Micozzi). "Congressional Committees, Electoral Connections, and Legislative Speech." (Revise and Resubmit) Political Research Quarterly. 
-
-5. Vallejo Vera, Sebastián. ["Rage within the Machine: Activation of Racist Content in Social Media."](https://ilcss.umd.edu/static/6d7c40d89a13fef276f407e9ed1a2520/rage.pdf) iLCSS Working Paper \#9. (Revise and Resubmit) Latin American Politics and Society. 
-
-6. Vallejo Vera, Sebastián (with Christopher Currin and Ali Khaledi-Nasab). ["Depolarization of echo chambers by random dynamical nudge."](https://arxiv.org/pdf/2101.04079.pdf) arXiv preprint arXiv:2101.04079. (Revise and Resubmit) Scientific Reports. 
+3. Vallejo Vera, Sebastián (with Joan C. Timoneda). "Pay (Self-)Attention: How Transformer Models Increase Performance in Text Classification Tasks." (Under Review). 
 
 7. Vallejo Vera, Sebastián. "Performance of Maximum Likelihood Fixed Effects Estimation in Panel Data with Sample Selection Bias." (Under Review).
 
