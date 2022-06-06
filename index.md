@@ -22,7 +22,7 @@ You can find my CV [here](https://svallejovera.github.io/vallejo%20cv.pdf).
 
 4. Vallejo Vera, Sebasti\'an (with Christopher Currin and Ali Khaledi-Nasab). (2022). "Depolarization of echo chambers by random dynamical nudge." *Scientific Reports*, 12, 9234. [DOI](https://doi.org/10.1038/s41598-022-12494-w) [PDF](https://www.nature.com/articles/s41598-022-12494-w.pdf)
 
-2. Vallejo Vera, Sebastián (with Angélica Abad, Raúl Aldaz, and Diana Dávila Gordillo). (2021). "Believe in me: Parties’ Strategies During a Pandemic, Evidence from Ecuador." *Journal of Politics in Latin America*, 13(3):419-441. [DOI](https://doi:10.1177/1866802X211058742) [PDF](https://svallejovera.github.io/files/Adab et al - Believe in me.pdf)
+2. Vallejo Vera, Sebastián (with Angélica Abad, Raúl Aldaz, and Diana Dávila Gordillo). (2021). "Believe in me: Parties’ Strategies During a Pandemic, Evidence from Ecuador." *Journal of Politics in Latin America*, 13(3):419-441. [DOI](https://doi:10.1177/1866802X211058742) [PDF](https://svallejovera.github.io/files/Believe_in_me.pdf)
 
 3. Vallejo Vera, Sebastián (with Joan C. Timoneda). (2021). "Will I die of coronavirus? Google Trends data reveal that politics determine virus fears." *Plos one*, 16(10), e0258189. [DOI](https://doi.org/10.1371/journal.pone.0258189) [PDF](https://svallejovera.github.io/files/will_i_die_2021.pdf) [Media](https://www.psypost.org/2021/11/analysis-of-google-search-data-indicates-politics-played-a-major-role-in-shaping-covid-19-fears-in-the-united-states-62083)
 
