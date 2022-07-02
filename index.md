@@ -18,7 +18,7 @@ You can find my CV [here](https://svallejovera.github.io/files/vallejo_cv.pdf).
 
 1. Vallejo Vera, Sebastián. *Forthcoming*. "Rage within the Machine: Activation of Racist Content in Social Media." *Latin American Politics and Society*. [Link to working paper](https://ilcss.umd.edu/static/6d7c40d89a13fef276f407e9ed1a2520/rage.pdf) 
  
-3. Vallejo Vera , Sebastián (with Analía Gómez Vidal). *Forthcoming*. "The Politics of Interruptions: Gendered Disruptions of Legislative Speeches." *Journal of Politics*. [DOI](https://doi.org/10.1086/717083) [PDF](https://svallejovera.github.io/files/interruptions_forth.pdf) [Replication Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/6IRAEM) [Media](https://jop.blogs.uni-hamburg.de/im-speaking-interruptions-in-legislative-speeches-and-womens-strategic-behavior/)
+3. Vallejo Vera , Sebastián (with Analía Gómez Vidal). (2022). "The Politics of Interruptions: Gendered Disruptions of Legislative Speeches." *The Journal of Politics*. 84:3, 1384-1402. [DOI](https://doi.org/10.1086/717083) [PDF](https://svallejovera.github.io/files/interruptions_forth.pdf) [Replication Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/6IRAEM) [Media](https://jop.blogs.uni-hamburg.de/im-speaking-interruptions-in-legislative-speeches-and-womens-strategic-behavior/)
 
 4. Vallejo Vera, Sebastián (with Christopher Currin and Ali Khaledi-Nasab). (2022). "Depolarization of echo chambers by random dynamical nudge." *Scientific Reports*, 12, 9234. [DOI](https://doi.org/10.1038/s41598-022-12494-w) [PDF](https://www.nature.com/articles/s41598-022-12494-w.pdf)
 
