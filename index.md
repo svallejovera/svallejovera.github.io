@@ -44,7 +44,9 @@ You can find my CV [here](https://svallejovera.github.io/files/vallejo_cv.pdf).
 
 ## Working Papers
 
-1. Vallejo Vera, Sebastián (with Angélica Abad, Raúl Aldaz, and Diana Dávila Gordillo). "An Unwelcomed Deja-Vu: Ecuadorian politics in 2021." (Accepted) Revista de Ciencia Política.
+1. Vallejo Vera, Sebastián (with Lindita Camaj, Lea Hellmueller and Peggy Lindner). "A Computational Analysis of Online Conversations during the U.S. Primary Debates." (Under Review).
+
+3. Vallejo Vera, Sebastián (with Angélica Abad, Raúl Aldaz, and Diana Dávila Gordillo). "An Unwelcomed Deja-Vu: Ecuadorian politics in 2021." (Accepted) Revista de Ciencia Política.
 
 2. Vallejo Vera, Sebastián (with Eduardo Alemán and Juan Pablo Micozzi). "Congressional Committees, Electoral Connections, and Legislative Speech." (Accepted) Political Research Quarterly. 
 
