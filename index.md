@@ -16,7 +16,7 @@ You can find my CV [here](https://svallejovera.github.io/files/vallejo_cv.pdf).
 
 ## Peer-Reviewed Publications
 
-3. Vallejo Vera, Sebastián (with Angélica Abad, Raúl Aldaz, and Diana Dávila Gordillo). (Ahead of Print) "An Unwelcomed Deja-Vu: Ecuadorian politics in 2021."  Revista de Ciencia Política. [DOI](https://www.scielo.cl/scielo.php?script=sci_arttext&pid=S0718-090X2022005000112&lng=en&nrm=iso&tlng=en) [PDF](http://ojs.uc.cl/index.php/rcp/article/view/51905/42485)
+3. Vallejo Vera, Sebastián (with Angélica Abad, Raúl Aldaz, and Diana Dávila Gordillo). (Ahead of Print) "An Unwelcomed Deja-Vu: Ecuadorian politics in 2021."  *Revista de Ciencia Política*. [DOI](https://www.scielo.cl/scielo.php?script=sci_arttext&pid=S0718-090X2022005000112&lng=en&nrm=iso&tlng=en) [PDF](http://ojs.uc.cl/index.php/rcp/article/view/51905/42485)
  
 3. Vallejo Vera , Sebastián (with Analía Gómez Vidal). (2022). "The Politics of Interruptions: Gendered Disruptions of Legislative Speeches." *The Journal of Politics*. 84:3, 1384-1402. [DOI](https://doi.org/10.1086/717083) [PDF](https://svallejovera.github.io/files/interruptions_forth.pdf) [Replication Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/6IRAEM) [Media](https://jop.blogs.uni-hamburg.de/im-speaking-interruptions-in-legislative-speeches-and-womens-strategic-behavior/)
 
