@@ -10,13 +10,13 @@ Welcome! I am an Assistant Professor at the School of Social Science and Governm
 
 ## Research Interest
 
-My research explores the relation between gendered political institutions and representation, and racial identity and racism in Latin America. I am particularly interested in the gendered barriers in political institutions, and the strategic reaction of political actors when encountering these barriers. My methodological work applies novel Natural Language Processing (NLP) to a wide variety of text data, from legislative speeches to tweets, to answer substantive questions about gender, racism, and politics.
+My research explores the relationship between gendered political institutions and representation, and racial identity and racism in Latin America. I am particularly interested in the gendered barriers in political institutions, and the strategic reaction of political actors when encountering these barriers. My methodological work applies novel Natural Language Processing (NLP) to a wide variety of text data, from legislative speeches to tweets, to answer substantive questions about gender, racism, and politics.
 
 You can find my CV [here](https://svallejovera.github.io/files/vallejo_cv.pdf).
 
 ## Peer-Reviewed Publications
 
-1. Vallejo Vera, Sebastián. *Forthcoming*. "Rage within the Machine: Activation of Racist Content in Social Media." *Latin American Politics and Society*. [Link to working paper](https://ilcss.umd.edu/static/6d7c40d89a13fef276f407e9ed1a2520/rage.pdf) 
+3. Vallejo Vera, Sebastián (with Angélica Abad, Raúl Aldaz, and Diana Dávila Gordillo). (Ahead of Print) "An Unwelcomed Deja-Vu: Ecuadorian politics in 2021."  Revista de Ciencia Política. [DOI](https://www.scielo.cl/scielo.php?script=sci_arttext&pid=S0718-090X2022005000112&lng=en&nrm=iso&tlng=en) [PDF](http://ojs.uc.cl/index.php/rcp/article/view/51905/42485)
  
 3. Vallejo Vera , Sebastián (with Analía Gómez Vidal). (2022). "The Politics of Interruptions: Gendered Disruptions of Legislative Speeches." *The Journal of Politics*. 84:3, 1384-1402. [DOI](https://doi.org/10.1086/717083) [PDF](https://svallejovera.github.io/files/interruptions_forth.pdf) [Replication Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/6IRAEM) [Media](https://jop.blogs.uni-hamburg.de/im-speaking-interruptions-in-legislative-speeches-and-womens-strategic-behavior/)
 
@@ -46,9 +46,9 @@ You can find my CV [here](https://svallejovera.github.io/files/vallejo_cv.pdf).
 
 1. Vallejo Vera, Sebastián (with Lindita Camaj, Lea Hellmueller and Peggy Lindner). "A Computational Analysis of Online Conversations during the U.S. Primary Debates." (Under Review).
 
-3. Vallejo Vera, Sebastián (with Angélica Abad, Raúl Aldaz, and Diana Dávila Gordillo). "An Unwelcomed Deja-Vu: Ecuadorian politics in 2021." (Accepted) Revista de Ciencia Política.
+2. Vallejo Vera, Sebastián (with Eduardo Alemán and Juan Pablo Micozzi). "Congressional Committees, Electoral Connections, and Legislative Speech." (Accepted) *Political Research Quarterly*. 
 
-2. Vallejo Vera, Sebastián (with Eduardo Alemán and Juan Pablo Micozzi). "Congressional Committees, Electoral Connections, and Legislative Speech." (Accepted) Political Research Quarterly. 
+5. Vallejo Vera, Sebastián. "Rage within the Machine: Activation of Racist Content in Social Media." (Accepted) *Latin American Politics and Society*. [Link to working paper](https://ilcss.umd.edu/static/6d7c40d89a13fef276f407e9ed1a2520/rage.pdf) 
 
 2. Vallejo Vera, Sebastián (with Diana Dávila Gordillo and Joan C. Timoneda). "Machines Do See Color: How Transformers Outperform Other Approaches in Classifying Overt and Covert Racism in Text." (Under Review).
 
