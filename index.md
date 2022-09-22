@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="C1461B40-57E5-4DBD-B37A-82D96282E372_1_105_c.jpeg">
 
-Welcome! I am an Assistant Professor at the School of Social Science and Government at the Tecnológico de Monterrey, México. I am also the director of the interdisciplinary Laboratory of Computational Social Science - México ([iLCSS](https://ilcss.umd.edu/)). Previously, I was a Post-Doctoral Fellow in the Department of Political Science at the University of Houston. I earned my Ph.D. in Political Science from the University of Maryland, College Park.
+Welcome! I am an Assistant Professor at the School of Social Science and Government at the Tecnológico de Monterrey, México. I am also the director of the interdisciplinary Laboratory of Computational Social Science - México ([iLCSS](https://ilcss.umd.edu/)) and a Research Fellow at the Hewlett Packard Enterprise Data Science Institute (University of Houston). Previously, I was a Post-Doctoral Fellow in the Department of Political Science at the University of Houston. I earned my Ph.D. in Political Science from the University of Maryland, College Park.
 
 ## Research Interest
 
