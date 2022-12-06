@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="C1461B40-57E5-4DBD-B37A-82D96282E372_1_105_c.jpeg">
 
-Welcome! I am an Assistant Professor at the School of Social Science and Government at the Tecnológico de Monterrey, México. I am also the director of the interdisciplinary Laboratory of Computational Social Science - México ([iLCSS](https://ilcss.umd.edu/)) and a Research Fellow at the Hewlett Packard Enterprise Data Science Institute (University of Houston). Previously, I was a Post-Doctoral Fellow in the Department of Political Science at the University of Houston. I earned my Ph.D. in Political Science from the University of Maryland, College Park.
+Welcome! I am an Assistant Professor at the School of Social Science and Government at the Tecnológico de Monterrey, México. I am also the director of the interdisciplinary Laboratory of Computational Social Science - México ([iLCSS](https://ilcss.umd.edu/)) and a Research Fellow at the Hewlett Packard Enterprise Data Science Institute (University of Houston). Previously, I was a Post-Doctoral Fellow in the Department of Political Science at the University of Houston. I earned my Ph.D. in Political Science from the University of Maryland, College Park. I will be joining the Department of Political Science at the University of Western Ontario in 2023. 
 
 ## Research Interest
 
@@ -46,13 +46,15 @@ You can find my CV [here](https://svallejovera.github.io/files/vallejo_cv.pdf).
 
 ## Working Papers
 
-1. Vallejo Vera, Sebastián (with Lindita Camaj, Lea Hellmueller and Peggy Lindner). "A Computational Analysis of Online Conversations during the U.S. Primary Debates." (Under Review).
+1. Timoneda, Joan C., and *Sebastián Vallejo Vera*. “Pay (Self-)Attention: How Transformer Models Increase Performance in Text Classification Tasks.” *Under Review*
+
+1. Hellmueller, Lea, Lindita Camaj, Peggy Lindner, and *Sebastián Vallejo Vera*. “The Quality of Online Conversations during the U.S. Primary Debates:vThe Relevance of News Reporting and Discursive Features.” *Under Review*. 
+
+3. Dávila Gordillo, Diana, Joan C. Timoneda, and *Sebastián Vallejo Vera*. “Machines Do See Color: How Transformers Outperform Other Approaches in Classifying Overt and Covert Racism in Text.” *R&R: Journal of Politics*
+ 
+5. Alemán, Eduardo, Tiffany Barnes, Juan Pablo Micozzi, and *Sebastián Vallejo Vera*. "The Role of Gender in Speech Participation: Evidence from Chile." *Working Paper*
 
 5. Vallejo Vera, Sebastián. "Rage within the Machine: Activation of Racist Content in Social Media." (Accepted) *Latin American Politics and Society*. [Link to working paper](https://ilcss.umd.edu/static/6d7c40d89a13fef276f407e9ed1a2520/rage.pdf) 
-
-2. Vallejo Vera, Sebastián (with Diana Dávila Gordillo and Joan C. Timoneda). "Machines Do See Color: How Transformers Outperform Other Approaches in Classifying Overt and Covert Racism in Text." (Under Review).
-
-3. Vallejo Vera, Sebastián (with Joan C. Timoneda). "Pay (Self-)Attention: How Transformer Models Increase Performance in Text Classification Tasks." (Under Review). 
 
 7. Vallejo Vera, Sebastián. "Performance of Maximum Likelihood Fixed Effects Estimation in Panel Data with Sample Selection Bias." (Under Review).
 
