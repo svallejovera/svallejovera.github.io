@@ -16,7 +16,7 @@ You can find my CV [here](https://svallejovera.github.io/files/vallejo_cv.pdf).
 
 ## Peer-Reviewed Publications
 
-2. Alemán, Eduardo, Juan Pablo Micozzi, and **Sebastián Vallejo Vera**. "Congressional Committees, Electoral Connections, and Legislative Speech." *Political Research Quarterly* (2022): 10659129221119200. [DOI](https://doi.org/10.1177/10659129221119200) [PDF](https://svallejovera.github.io/files/Congressional_committees.pdf)
+1. Alemán, Eduardo, Juan Pablo Micozzi, and **Sebastián Vallejo Vera**. "Congressional Committees, Electoral Connections, and Legislative Speech." *Political Research Quarterly* (2022): 10659129221119200. [DOI](https://doi.org/10.1177/10659129221119200) [PDF](https://svallejovera.github.io/files/Congressional_committees.pdf)
 
 4. Abad, Angelica, Raul Aldaz Pena, Diana Davila Gordillo, and **Sebastián Vallejo Vera**. "An Unwelcomed Deja-vu: Ecuadorian Politics in 2021." *Revista de Ciencia Política* 42, no. 2 (2022): 281-308. [DOI](https://www.scielo.cl/scielo.php?script=sci_arttext&pid=S0718-090X2022005000112&lng=en&nrm=iso&tlng=en) [PDF](https://www.scielo.cl/pdf/revcipol/v42n2/0718-090X-revcipol-S0718-090X2022005000112.pdf)
  
@@ -56,5 +56,5 @@ You can find my CV [here](https://svallejovera.github.io/files/vallejo_cv.pdf).
 
 5. Vallejo Vera, Sebastián. "Rage within the Machine: Activation of Racist Content in Social Media." (Accepted) *Latin American Politics and Society*. [Link to working paper](https://ilcss.umd.edu/static/6d7c40d89a13fef276f407e9ed1a2520/rage.pdf) 
 
-7. Vallejo Vera, Sebastián. "Performance of Maximum Likelihood Fixed Effects Estimation in Panel Data with Sample Selection Bias." (Under Review).
+7. Vallejo Vera, Sebastián. "Performance of Maximum Likelihood Fixed Effects Estimation in Panel Data with Sample Selection Bias." *Under Review*
 
