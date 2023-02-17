@@ -50,9 +50,9 @@ You can find my CV [here](https://svallejovera.github.io/files/vallejo_cv.pdf).
 
 1. Timoneda, Joan C., and *Sebastián Vallejo Vera*. “Pay (Self-)Attention: How Transformer Models Increase Performance in Text Classification Tasks.” *R&R: Journal of Politics*
 
-2. Hellmueller, Lea, Lindita Camaj, Peggy Lindner, and *Sebastián Vallejo Vera*. “US Primary Debates in Bilingual Online Spaces: The Impact of Journalistic Cultures on Social Media Discourse.” *R&R: at Digital Journalism*
+2. Hellmueller, Lea, Lindita Camaj, Peggy Lindner, and *Sebastián Vallejo Vera*. “US Primary Debates in Bilingual Online Spaces: The Impact of Journalistic Cultures on Social Media Discourse.” *R&R: Digital Journalism*
 
-1. Hellmueller, Lea, Lindita Camaj, Peggy Lindner, and *Sebastián Vallejo Vera*. “The Quality of Online Conversations during the U.S. Primary Debates:vThe Relevance of News Reporting and Discursive Features.” *Under Review*. 
+1. Hellmueller, Lea, Lindita Camaj, Peggy Lindner, and *Sebastián Vallejo Vera*. “The Democratic Value of Uncivil Talk and Strategic Game Reporting: A Computational Analysis of Facebook Conversations During the 2020 U.S. Primary Debates.” *R&R: Journal of Computer-Mediated Communication*. 
 
 3. Dávila Gordillo, Diana, Joan C. Timoneda, and *Sebastián Vallejo Vera*. “Machines Do See Color: How Transformers Outperform Other Approaches in Classifying Overt and Covert Racism in Text.” *R&R: Journal of Politics*
  
