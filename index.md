@@ -58,4 +58,6 @@ You can find my CV [here](https://svallejovera.github.io/files/vallejo_cv.pdf).
  
 5. Alemán, Eduardo, Tiffany Barnes, Juan Pablo Micozzi, and *Sebastián Vallejo Vera*. "The Role of Gender in Speech Participation: Evidence from Chile." *Working Paper*
 
+7. Alemán, Eduardo, Pablo Valdivieso Kastner, and *Sebastián Vallejo Vera*. "Electoral Reform and Legislative Incentives: Constituency Representation in Ecuador." *Working Paper*
+
 7. Vallejo Vera, Sebastián. "Performance of Maximum Likelihood Fixed Effects Estimation in Panel Data with Sample Selection Bias." *Under Review*
