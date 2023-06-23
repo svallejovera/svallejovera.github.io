@@ -16,7 +16,7 @@ You can find my CV [here](https://svallejovera.github.io/files/vallejo_cv.pdf).
 
 ## Peer-Reviewed Publications
 
-1. **Vallejo Vera, Sebastián**. "Rage in the Machine: Activation of Racist Content in Social Media." *Latin American Politics and Society* (Forthcoming): 65(1), 74-100. doi:10.1017/lap.2022.25. [DOI](https://doi.org/10.1017/lap.2022.25) [PDF](https://svallejovera.github.io/files/rage_in_machine.pdf)
+1. **Vallejo Vera, Sebastián**. "Rage in the Machine: Activation of Racist Content in Social Media." *Latin American Politics and Society* (2023): 65(1), 74-100. doi:10.1017/lap.2022.25. [DOI](https://doi.org/10.1017/lap.2022.25) [PDF](https://svallejovera.github.io/files/rage_in_machine.pdf)
 
 7. Alemán, Eduardo, Juan Pablo Micozzi, and **Sebastián Vallejo Vera**. "Congressional Committees, Electoral Connections, and Legislative Speech." *Political Research Quarterly* (2022): 10659129221119200. [DOI](https://doi.org/10.1177/10659129221119200) [PDF](https://svallejovera.github.io/files/Congressional_committees.pdf)
 
