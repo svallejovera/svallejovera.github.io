@@ -6,13 +6,13 @@ layout: default
 
 <img class="profile-picture" src="C1461B40-57E5-4DBD-B37A-82D96282E372_1_105_c.jpeg">
 
-Welcome! I am an Assistant Professor at the School of Social Science and Government at the Tecnológico de Monterrey, México. I am also the director of the interdisciplinary Laboratory of Computational Social Science - México ([iLCSS](https://ilcss.umd.edu/)) and a Research Fellow at the Hewlett Packard Enterprise Data Science Institute (University of Houston). Previously, I was a Post-Doctoral Fellow in the Department of Political Science at the University of Houston. I earned my Ph.D. in Political Science from the University of Maryland, College Park. I will be joining the Department of Political Science at the University of Western Ontario in 2023. 
+Welcome! I am an Assistant Professor in the Department of Political Science at the University of Western Ontario. I am also the director of the interdisciplinary Laboratory of Computational Social Science - México ([iLCSS](https://ilcss.umd.edu/)) and a Research Fellow at the Hewlett Packard Enterprise Data Science Institute (University of Houston). Previously, I was a Post-Doctoral Fellow in the Department of Political Science at the University of Houston and an Assistant Profesor at the Tecnológico de Monterrey, México. I earned my Ph.D. in Political Science from the University of Maryland, College Park. 
 
 ## Research Interest
 
 My research explores the relationship between gendered political institutions and representation, and racial identity and racism in Latin America. I am particularly interested in the gendered barriers in political institutions, and the strategic reaction of political actors when encountering these barriers. My methodological work applies novel Natural Language Processing (NLP) to a wide variety of text data, from legislative speeches to tweets, to answer substantive questions about gender, racism, and politics.
 
-You can find my CV [here](https://svallejovera.github.io/files/vallejo_cv.pdf).
+You can find my CV [here](https://svallejovera.github.io/files/vallejo_cv.pdf) | [Google Scholar](https://scholar.google.com/citations?user=1TOKuVkAAAAJ&hl=en&oi=ao) 
 
 ## Peer-Reviewed Publications
 
