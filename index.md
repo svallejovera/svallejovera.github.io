@@ -12,7 +12,7 @@ Welcome! I am an Assistant Professor in the Department of Political Science at t
 
 My research explores the relationship between gendered political institutions and representation, and racial identity and racism in Latin America. I am particularly interested in the gendered barriers in political institutions, and the strategic reaction of political actors when encountering these barriers. My methodological work applies novel Natural Language Processing (NLP) to a wide variety of text data, from legislative speeches to tweets, to answer substantive questions about gender, racism, and politics.
 
-You can find my CV [here](https://svallejovera.github.io/files/vallejo_cv.pdf) | [Google Scholar](https://scholar.google.com/citations?user=1TOKuVkAAAAJ&hl=en&oi=ao) 
+Links to my [CV](https://svallejovera.github.io/files/vallejo_cv.pdf) and [Google Scholar](https://scholar.google.com/citations?user=1TOKuVkAAAAJ&hl=en&oi=ao) 
 
 ## Peer-Reviewed Publications
 
