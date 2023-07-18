@@ -3,17 +3,16 @@ layout: default
 is_contact: true
 ---
 
-* Email: [svallejovera[at]tec[dot]mx](mailto:svallejovera@tec.mx)
+* Email: [sebastian.vallejo[at]uwo[dot]ca](mailto:sebastian.vallejo@uwo.ca)
 
 ---
 
 ## Mailing Address
 
-> Av Carlos Lazo 100, Santa Fe, La Loma
->
-> Álvaro Obregón, 01389 Ciudad de México
->
-> México
+> Political Science – Western University
+> Social Science Centre, Room 7221
+> 1151 Richmond Street,
+> London, Ontario, Canada N6A 5C2
 
 ---
 
