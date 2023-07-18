@@ -10,8 +10,11 @@ is_contact: true
 ## Mailing Address
 
 > Political Science – Western University
+> 
 > Social Science Centre, Room 7221
+> 
 > 1151 Richmond Street,
+> 
 > London, Ontario, Canada N6A 5C2
 
 ---
