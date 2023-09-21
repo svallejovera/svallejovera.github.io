@@ -48,7 +48,7 @@ Links to my [CV](https://svallejovera.github.io/files/vallejo_cv.pdf) and [Googl
 
 ## Working Papers
 
-1. Timoneda, Joan C., and *Sebastián Vallejo Vera*. “Pay (Self-)Attention: How Transformer Models Increase Performance in Text Classification Tasks.” *R&R: Journal of Politics*
+1. Timoneda, Joan C., and *Sebastián Vallejo Vera*. “BERT, RoBERTa or DeBERTa? Comparing Performance Across Transformer Models in Political Science Text.” *Conditionally Accepted: Journal of Politics*. [PDF](https://joantimoneda.netlify.app/files/Timoneda%20Vallejo%20V%20JOP.pdf)
 
 2. Hellmueller, Lea, Lindita Camaj, Peggy Lindner, and *Sebastián Vallejo Vera*. “US Primary Debates in Bilingual Online Spaces: The Impact of Journalistic Cultures on Social Media Discourse.” *R&R: Digital Journalism*
 
