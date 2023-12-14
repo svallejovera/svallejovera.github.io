@@ -50,14 +50,16 @@ Links to my [CV](https://svallejovera.github.io/files/vallejo_cv.pdf) and [Googl
 
 1. Timoneda, Joan C., and *Sebastián Vallejo Vera*. “BERT, RoBERTa or DeBERTa? Comparing Performance Across Transformer Models in Political Science Text.” *Conditionally Accepted: Journal of Politics*. [PDF](https://joantimoneda.netlify.app/files/Timoneda%20Vallejo%20V%20JOP.pdf)
 
-2. Hellmueller, Lea, Lindita Camaj, Peggy Lindner, and *Sebastián Vallejo Vera*. “US Primary Debates in Bilingual Online Spaces: The Impact of Journalistic Cultures on Social Media Discourse.” *R&R: Digital Journalism*
+2. Hellmueller, Lea, Lindita Camaj, Peggy Lindner, and *Sebastián Vallejo Vera*. “US Primary Debates in Bilingual Online Spaces: The Impact of Journalistic Cultures on Social Media Discourse.” *Conditionally Accepted: Journalism & Mass Communication Quarterly*
 
 1. Hellmueller, Lea, Lindita Camaj, Peggy Lindner, and *Sebastián Vallejo Vera*. “The Democratic Value of Uncivil Talk and Strategic Game Reporting: A Computational Analysis of Facebook Conversations During the 2020 U.S. Primary Debates.” *R&R: Journal of Computer-Mediated Communication*. 
 
 3. Dávila Gordillo, Diana, Joan C. Timoneda, and *Sebastián Vallejo Vera*. “Machines Do See Color: How Transformers Outperform Other Approaches in Classifying Overt and Covert Racism in Text.” *R&R: Journal of Politics*
  
-5. Alemán, Eduardo, Tiffany Barnes, Juan Pablo Micozzi, and *Sebastián Vallejo Vera*. "The Role of Gender in Speech Participation: Evidence from Chile." *Working Paper*
+5. Alemán, Eduardo, Tiffany Barnes, Juan Pablo Micozzi, and *Sebastián Vallejo Vera*. "The Role of Gender in Speech Participation: Evidence from Chile." *Under Review*
 
-7. Alemán, Eduardo, Pablo Valdivieso Kastner, and *Sebastián Vallejo Vera*. "Electoral Reform and Legislative Incentives: Constituency Representation in Ecuador." *Working Paper*
+7. Alemán, Eduardo, Pablo Valdivieso Kastner, and *Sebastián Vallejo Vera*. "Electoral Reform and Legislative Incentives: Constituency Representation in Ecuador." *Under Review*
+
+8. Dávila Gordillo, Diana and *Sebastián Vallejo Vera*. “Gender Quotas and Woman Candidates”. *Working Paper*
 
 7. Vallejo Vera, Sebastián. "Performance of Maximum Likelihood Fixed Effects Estimation in Panel Data with Sample Selection Bias." *Under Review*
