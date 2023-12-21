@@ -7,5 +7,4 @@ One of the most abundant sources of data available to social and political scien
 
 #### You can access the course syllabus [here](https://svallejovera.github.io/files/9594A__Computational_Text_Analysis.pdf).
 
-#### You can access the course material [here](https://website-name.com) (slides and code).
-
+#### You can access the course material [here](https://github.com/svallejovera/cpa_uwo/blob/main/docs/index.html) (slides and code).
