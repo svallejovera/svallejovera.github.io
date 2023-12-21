@@ -23,3 +23,5 @@ nav:
    link: "contact"
  - name: "iLCSS"
    link: "https://ilcss.umd.edu/"
+ - name: "Teaching"
+   link: "teaching"
