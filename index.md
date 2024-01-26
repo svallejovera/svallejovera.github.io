@@ -18,7 +18,7 @@ Links to my [CV](https://svallejovera.github.io/files/vallejo_cv.pdf) and [Googl
 
 1. Timoneda, Joan C., and *Sebastián Vallejo Vera*. “BERT, RoBERTa or DeBERTa? Comparing Performance Across Transformer Models in Political Science Text.” *Forthcoming: Journal of Politics*. [PDF](https://joantimoneda.netlify.app/files/Timoneda%20Vallejo%20V%20JOP.pdf)
 
-2. Hellmueller, Lea, Lindita Camaj, Peggy Lindner, and *Sebastián Vallejo Vera*. “US Primary Debates in Bilingual Online Spaces: The Impact of Journalistic Cultures on Social Media Discourse.” *Forthcoming: Journalism & Mass Communication Quarterly* 
+2. Hellmueller, Lea, Lindita Camaj, Peggy Lindner, and *Sebastián Vallejo Vera*. “US Primary Debates in Bilingual Online Spaces: The Impact of Journalistic Cultures on Social Media Discourse.” *Forthcoming: Journalism & Mass Communication Quarterly*
    
 1. **Vallejo Vera, Sebastián**. "Rage in the Machine: Activation of Racist Content in Social Media." *Latin American Politics and Society* (2023): 65(1), 74-100. doi:10.1017/lap.2022.25. [DOI](https://doi.org/10.1017/lap.2022.25) [PDF](https://svallejovera.github.io/files/rage_in_machine.pdf)
 
