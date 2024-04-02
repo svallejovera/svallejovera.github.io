@@ -16,7 +16,7 @@ Links to my [CV](https://svallejovera.github.io/files/vallejo_cv.pdf) and [Googl
 
 ## Peer-Reviewed Publications
 
-1. Timoneda, Joan C., and **Sebastián Vallejo Vera**. “BERT, RoBERTa or DeBERTa? Comparing Performance Across Transformer Models in Political Science Text.” *Forthcoming: Journal of Politics*. [PDF](https://joantimoneda.netlify.app/files/Timoneda%20Vallejo%20V%20JOP.pdf)
+1. Timoneda, Joan C., and **Sebastián Vallejo Vera**. “BERT, RoBERTa or DeBERTa? Comparing Performance Across Transformer Models in Political Science Text.” *Forthcoming: Journal of Politics*. [PDF](https://svallejovera.github.io/files/bert_roberta_jop.pdf)
 
 2. Camaj, Lindita, Lea Hellmueller, **Sebastián Vallejo Vera**, and Peggy Lindner. "The Democratic Value of Strategic Game Reporting and Uncivil Talk: A Computational Analysis of Facebook Conversations During U.S. Primary Debates". *Journalism & Mass Communication Quarterly* (2024): 0(0). [DOI](https://doi.org/10.1177/10776990231226403) [PDF](https://svallejovera.github.io/files/democratic_value_2024.pdf)
    
