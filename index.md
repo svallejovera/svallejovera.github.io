@@ -16,9 +16,13 @@ Links to my [CV](https://svallejovera.github.io/files/vallejo_cv.pdf) and [Googl
 
 ## Peer-Reviewed Publications
 
-1. Timoneda, Joan C., and **Sebastián Vallejo Vera**. “BERT, RoBERTa or DeBERTa? Comparing Performance Across Transformer Models in Political Science Text.” *Forthcoming: Journal of Politics*. [PDF](https://svallejovera.github.io/files/bert_roberta_jop.pdf)
+1. Alemán, Eduardo, Tiffany Barnes, Juan Pablo Micozzi, and **Sebastián Vallejo Vera**. "Gender, Institutions, and Legislative Speeches." *Forthcoming: Compartive Politics*.
 
-2. Camaj, Lindita, Lea Hellmueller, **Sebastián Vallejo Vera**, and Peggy Lindner. "The Democratic Value of Strategic Game Reporting and Uncivil Talk: A Computational Analysis of Facebook Conversations During U.S. Primary Debates". *Journalism & Mass Communication Quarterly* (2024): 0(0). [DOI](https://doi.org/10.1177/10776990231226403) [PDF](https://svallejovera.github.io/files/democratic_value_2024.pdf)
+2. Hellmueller, Lea, Lindita Camaj, and **Sebastián Vallejo Vera**. “The Impact of Journalistic Cultures on Social Media Discourse: US Primary Debates in Cross-Lingual Online Spaces.” *Forthcoming: Digital Journalism*. 
+  
+3. Timoneda, Joan C., and **Sebastián Vallejo Vera**. “BERT, RoBERTa or DeBERTa? Comparing Performance Across Transformer Models in Political Science Text.” *Forthcoming: Journal of Politics*. [PDF](https://svallejovera.github.io/files/bert_roberta_jop.pdf)
+
+4. Camaj, Lindita, Lea Hellmueller, **Sebastián Vallejo Vera**, and Peggy Lindner. "The Democratic Value of Strategic Game Reporting and Uncivil Talk: A Computational Analysis of Facebook Conversations During U.S. Primary Debates". *Journalism & Mass Communication Quarterly* (2024): 101(2), 428-450. [DOI](https://doi.org/10.1177/10776990231226403) [PDF](https://svallejovera.github.io/files/democratic_value_2024.pdf)
    
 1. **Vallejo Vera, Sebastián**. "Rage in the Machine: Activation of Racist Content in Social Media." *Latin American Politics and Society* (2023): 65(1), 74-100. doi:10.1017/lap.2022.25. [DOI](https://doi.org/10.1017/lap.2022.25) [PDF](https://svallejovera.github.io/files/rage_in_machine.pdf)
 
@@ -52,11 +56,9 @@ Links to my [CV](https://svallejovera.github.io/files/vallejo_cv.pdf) and [Googl
 
 ## Working Papers
 
-1. Dávila Gordillo, Diana, Joan C. Timoneda, and *Sebastián Vallejo Vera*. “Machines Do See Color: How Transformers Outperform Other Approaches in Classifying Overt and Covert Racism in Text.” (2024). arXiv preprint arXiv:2401.09333. [PDF](https://arxiv.org/pdf/2401.09333.pdf)
+1. Vallejo Vera, Sebastián and Hunter Driggers. "Bias in LLMs as Annotators: The Effect of Party Cues on Labelling Decision by Large Language Models." (2024). arXiv preprint arXiv:2408.15895. [PDF](https://arxiv.org/pdf/2408.15895)
 
-1. Hellmueller, Lea, Lindita Camaj, Peggy Lindner, and *Sebastián Vallejo Vera*. “US Primary Debates in Bilingual Online Spaces: The Impact of Journalistic Cultures on Social Media Discourse.” *R&R: Journal of Computer-Mediated Communication*. 
- 
-5. Alemán, Eduardo, Tiffany Barnes, Juan Pablo Micozzi, and *Sebastián Vallejo Vera*. "The Role of Gender in Speech Participation: Evidence from Chile." *Under Review*
+2. Dávila Gordillo, Diana, Joan C. Timoneda, and *Sebastián Vallejo Vera*. “Machines Do See Color: How Transformers Outperform Other Approaches in Classifying Overt and Covert Racism in Text.” (2024). arXiv preprint arXiv:2401.09333. [PDF](https://arxiv.org/pdf/2401.09333.pdf)
 
 7. Alemán, Eduardo, Pablo Valdivieso Kastner, and *Sebastián Vallejo Vera*. "Electoral Reform and Legislative Incentives: Constituency Representation in Ecuador." *Under Review*
 
