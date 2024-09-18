@@ -62,8 +62,6 @@ Links to my [CV](https://svallejovera.github.io/files/vallejo_cv.pdf) and [Googl
 
 2. Dávila Gordillo, Diana, Joan C. Timoneda, and *Sebastián Vallejo Vera*. “Machines Do See Color: How Transformers Outperform Other Approaches in Classifying Overt and Covert Racism in Text.” (2024). arXiv preprint arXiv:2401.09333. [PDF](https://arxiv.org/pdf/2401.09333.pdf)
 
-7. Alemán, Eduardo, Pablo Valdivieso Kastner, and *Sebastián Vallejo Vera*. "Electoral Reform and Legislative Incentives: Constituency Representation in Ecuador." *Under Review*
-
 8. Dávila Gordillo, Diana and *Sebastián Vallejo Vera*. “Gender Quotas and Woman Candidates”. *Working Paper*
 
 7. Vallejo Vera, Sebastián. "Performance of Maximum Likelihood Fixed Effects Estimation in Panel Data with Sample Selection Bias." *Under Review*
