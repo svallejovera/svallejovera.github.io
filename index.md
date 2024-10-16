@@ -18,7 +18,7 @@ Links to my [CV](https://svallejovera.github.io/files/vallejo_cv.pdf) and [Googl
 
 1. Alemán, Eduardo, Pablo Valdivieso Kastner, and **Sebastián Vallejo Vera**. "Speech targeting and constituency representation in open-list electoral systems." *Forthcoming: Electoral Studies*.
 
-2. Alemán, Eduardo, Tiffany Barnes, Juan Pablo Micozzi, and **Sebastián Vallejo Vera**. "Gender, Institutions, and Legislative Speeches." *Forthcoming: Compartive Politics*.
+2. Alemán, Eduardo, Tiffany Barnes, Juan Pablo Micozzi, and **Sebastián Vallejo Vera**. "Gender, Institutions, and Legislative Speeches." *Compartive Politics* (2024). [DOI](https://doi.org/10.5129/001041524X17260652667492) [PDF](asdf) [Replication Material](https://github.com/svallejovera/gender_inst_speeches)
 
 3. Hellmueller, Lea, Lindita Camaj, and **Sebastián Vallejo Vera**. “The Impact of Journalistic Cultures on Social Media Discourse: US Primary Debates in Cross-Lingual Online Spaces.” *Forthcoming: Digital Journalism*. 
   
