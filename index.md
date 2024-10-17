@@ -18,7 +18,7 @@ Links to my [CV](https://svallejovera.github.io/files/vallejo_cv.pdf) and [Googl
 
 1. Alemán, Eduardo, Pablo Valdivieso Kastner, and **Sebastián Vallejo Vera**. "Speech Targeting and Constituency Representation in Open-List Electoral Systems." *Electoral Studies* (2024): 92, 102865. [DOI](https://doi.org/10.1016/j.electstud.2024.102865) [PDF](https://svallejovera.github.io/files/speech_targeting.pdf)
 
-2. Alemán, Eduardo, Tiffany Barnes, Juan Pablo Micozzi, and **Sebastián Vallejo Vera**. "Gender, Institutions, and Legislative Speeches." *Comparative Politics* (2024). [DOI](https://doi.org/10.5129/001041524X17260652667492) [PDF](asdf) [Replication Material](https://github.com/svallejovera/gender_inst_speeches)
+2. Alemán, Eduardo, Tiffany Barnes, Juan Pablo Micozzi, and **Sebastián Vallejo Vera**. "Gender, Institutions, and Legislative Speeches." *Comparative Politics* (2024). [DOI](https://doi.org/10.5129/001041524X17260652667492) [PDF](https://svallejovera.github.io/files/gender_inst.pdf) [Replication Material](https://github.com/svallejovera/gender_inst_speeches)
 
 3. Hellmueller, Lea, Lindita Camaj, **Sebastián Vallejo Vera**, and Peggy Lindner. "The Impact of Journalistic Cultures on Social Media Discourse: US Primary Debates in Cross-Lingual Online Spaces." *Digital Journalism* (2024): 1-21. [DOI](https://doi.org/10.1080/21670811.2024.2402371) [PDF](https://svallejovera.github.io/files/journalism_cultures.pdf)
   
