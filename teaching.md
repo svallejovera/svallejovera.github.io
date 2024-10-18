@@ -8,3 +8,6 @@ One of the most abundant sources of data available to social and political scien
 #### You can access the course syllabus [here](https://svallejovera.github.io/files/9594A__Computational_Text_Analysis.pdf).
 
 #### You can access the course material [here](https://svallejovera.github.io/cpa_uwo/) (slides and code).
+
+## [Data Visualization Workshop (Spanish)](https://htmlpreview.github.io/?https://github.com/svallejovera/svallejovera.github.io/blob/master/files/Taller-de-Visualizacion-de-Datos.html)
+En este corto taller vamos a aprender las herramientas básicas para visualizar su data. La visualización de datos, ampliamente entendida, es una manera (efectiva, cuando se la hace bien) de contar una historia (la historia que tú quieres contar). Una mala visualización de datos es como una mala narrativa. Una buena visualización de datos es chefs kiss.
