@@ -16,13 +16,15 @@ Links to my [CV](https://svallejovera.github.io/files/vallejo_cv.pdf) and [Googl
 
 ## Peer-Reviewed Publications
 
+1. Timoneda, Joan C., and **Sebastián Vallejo Vera**. “BERT, RoBERTa or DeBERTa? Comparing Performance Across Transformer Models in Political Science Text.” *Forthcoming: Journal of Politics*. [PDF](https://svallejovera.github.io/files/bert_roberta_jop.pdf)
+
+2. Timoneda, Joan C., and **Sebastián Vallejo Vera**. “Behind the Mask: Random and Selective Masking in Transformer Models Applied to Specialized Social Science Texts.” *Forthcoming: PlosOne*. [Replication Material](https://github.com/svallejovera/masking_plosone)
+
+1. Alemán, Eduardo, Tiffany Barnes, Juan Pablo Micozzi, and **Sebastián Vallejo Vera**. "Gender, Institutions, and Legislative Speeches." *Comparative Politics* (2025). [DOI](https://doi.org/10.5129/001041524X17260652667492) [PDF](https://svallejovera.github.io/files/gender_inst.pdf) [Replication Material](https://github.com/svallejovera/gender_inst_speeches)
+
 1. Alemán, Eduardo, Pablo Valdivieso Kastner, and **Sebastián Vallejo Vera**. "Speech Targeting and Constituency Representation in Open-List Electoral Systems." *Electoral Studies* (2024): 92, 102865. [DOI](https://doi.org/10.1016/j.electstud.2024.102865) [PDF](https://svallejovera.github.io/files/speech_targeting.pdf)
-
-2. Alemán, Eduardo, Tiffany Barnes, Juan Pablo Micozzi, and **Sebastián Vallejo Vera**. "Gender, Institutions, and Legislative Speeches." *Comparative Politics* (2024). [DOI](https://doi.org/10.5129/001041524X17260652667492) [PDF](https://svallejovera.github.io/files/gender_inst.pdf) [Replication Material](https://github.com/svallejovera/gender_inst_speeches)
-
+   
 3. Hellmueller, Lea, Lindita Camaj, **Sebastián Vallejo Vera**, and Peggy Lindner. "The Impact of Journalistic Cultures on Social Media Discourse: US Primary Debates in Cross-Lingual Online Spaces." *Digital Journalism* (2024): 1-21. [DOI](https://doi.org/10.1080/21670811.2024.2402371) [PDF](https://svallejovera.github.io/files/journalism_cultures.pdf)
-  
-4. Timoneda, Joan C., and **Sebastián Vallejo Vera**. “BERT, RoBERTa or DeBERTa? Comparing Performance Across Transformer Models in Political Science Text.” *Forthcoming: Journal of Politics*. [PDF](https://svallejovera.github.io/files/bert_roberta_jop.pdf)
 
 5. Camaj, Lindita, Lea Hellmueller, **Sebastián Vallejo Vera**, and Peggy Lindner. "The Democratic Value of Strategic Game Reporting and Uncivil Talk: A Computational Analysis of Facebook Conversations During U.S. Primary Debates". *Journalism & Mass Communication Quarterly* (2024): 101(2), 428-450. [DOI](https://doi.org/10.1177/10776990231226403) [PDF](https://svallejovera.github.io/files/democratic_value_2024.pdf)
    
