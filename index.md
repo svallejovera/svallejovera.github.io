@@ -16,9 +16,9 @@ Links to my [CV](https://svallejovera.github.io/files/vallejo_cv.pdf) and [Googl
 
 ## Peer-Reviewed Publications
 
-1. Timoneda, Joan C., and **Sebastián Vallejo Vera**. “BERT, RoBERTa or DeBERTa? Comparing Performance Across Transformer Models in Political Science Text.” *Forthcoming: Journal of Politics*. [PDF](https://svallejovera.github.io/files/bert_roberta_jop.pdf)
+1. Timoneda, Joan C., and **Sebastián Vallejo Vera**. “BERT, RoBERTa or DeBERTa? Comparing Performance Across Transformer Models in Political Science Text.” *The Journal of Politics* (2025): 87.1 000-000. [PDF](https://svallejovera.github.io/files/bert_roberta_jop.pdf)
 
-2. Timoneda, Joan C., and **Sebastián Vallejo Vera**. “Behind the Mask: Random and Selective Masking in Transformer Models Applied to Specialized Social Science Texts.” *Forthcoming: PlosOne*. [Replication Material](https://github.com/svallejovera/masking_plosone)
+2. Timoneda, Joan C., and **Sebastián Vallejo Vera**. “Behind the Mask: Random and Selective Masking in Transformer Models Applied to Specialized Social Science Texts.” *PloS one* (2025): 20.2 e0318421 [PDF](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0318421&type=printable) [Replication Material](https://github.com/svallejovera/masking_plosone)
 
 1. Alemán, Eduardo, Tiffany Barnes, Juan Pablo Micozzi, and **Sebastián Vallejo Vera**. "Gender, Institutions, and Legislative Speeches." *Comparative Politics* (2025). [DOI](https://doi.org/10.5129/001041524X17260652667492) [PDF](https://svallejovera.github.io/files/gender_inst.pdf) [Replication Material](https://github.com/svallejovera/gender_inst_speeches)
 
@@ -60,7 +60,7 @@ Links to my [CV](https://svallejovera.github.io/files/vallejo_cv.pdf) and [Googl
 
 ## Working Papers
 
-1. Vallejo Vera, Sebastián and Hunter Driggers. "Bias in LLMs as Annotators: The Effect of Party Cues on Labelling Decision by Large Language Models." (2024). arXiv preprint arXiv:2408.15895. [PDF](https://arxiv.org/pdf/2408.15895)
+1. Vallejo Vera, Sebastián and Hunter Driggers. "Bias in LLMs as Annotators: The Effect of Party Cues on Labelling Decision by Large Language Models." (2025). arXiv preprint arXiv:2408.15895. [PDF](https://arxiv.org/pdf/2408.15895)
 
 2. Dávila Gordillo, Diana, Joan C. Timoneda, and *Sebastián Vallejo Vera*. “Machines Do See Color: How Transformers Outperform Other Approaches in Classifying Overt and Covert Racism in Text.” (2024). arXiv preprint arXiv:2401.09333. [PDF](https://arxiv.org/pdf/2401.09333.pdf)
 
