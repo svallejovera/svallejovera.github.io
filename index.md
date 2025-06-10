@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="profile_pic_small.jpeg">
 
-Welcome! I am an Assistant Professor in the Department of Political Science at the University of Western Ontario. I am also the director of the interdisciplinary Laboratory of Computational Social Science - México ([iLCSS](https://ilcss.umd.edu/)) and a Research Fellow at the Hewlett Packard Enterprise Data Science Institute (University of Houston). Previously, I was a Post-Doctoral Fellow in the Department of Political Science at the University of Houston and an Assistant Profesor at the Tecnológico de Monterrey, México. I earned my Ph.D. in Political Science from the University of Maryland, College Park. 
+Welcome! I am an Assistant Professor in the Department of Political Science at the University of Western Ontario. I am also a member of the interdisciplinary Laboratory of Computational Social Science ([iLCSS](https://ilcss.umd.edu/)) and a Research Fellow at the Hewlett Packard Enterprise Data Science Institute (University of Houston). Previously, I was a Post-Doctoral Fellow in the Department of Political Science at the University of Houston and an Assistant Professor at the Tecnológico de Monterrey, México. I earned my Ph.D. in Political Science from the University of Maryland, College Park. 
 
 ## Research Interest
 
@@ -60,10 +60,12 @@ Links to my [CV](https://svallejovera.github.io/files/vallejo_cv.pdf) and [Googl
 
 ## Working Papers
 
-1. Vallejo Vera, Sebastián and Hunter Driggers. "Bias in LLMs as Annotators: The Effect of Party Cues on Labelling Decision by Large Language Models." (2025). arXiv preprint arXiv:2408.15895. [PDF](https://arxiv.org/pdf/2408.15895)
+1. *Vallejo Vera, Sebastián* and Hunter Driggers. "Bias in LLMs as Annotators: The Effect of Party Cues on Labelling Decision by Large Language Models." (2025). arXiv preprint arXiv:2408.15895. [PDF](https://arxiv.org/pdf/2408.15895) (R&R at Humanities and Social Sciences Communications - Nature)
 
-2. Dávila Gordillo, Diana, Joan C. Timoneda, and *Sebastián Vallejo Vera*. “Machines Do See Color: How Transformers Outperform Other Approaches in Classifying Overt and Covert Racism in Text.” (2024). arXiv preprint arXiv:2401.09333. [PDF](https://arxiv.org/pdf/2401.09333.pdf)
+2. Dávila Gordillo, Diana, Joan C. Timoneda, and *Sebastián Vallejo Vera*. “Machines Do See Color: How Transformers Outperform Other Approaches in Classifying Overt and Covert Racism in Text.” (2024). arXiv preprint arXiv:2401.09333. [PDF](https://arxiv.org/pdf/2401.09333.pdf) (R&R at Sociological Methods and Research)
 
-8. Dávila Gordillo, Diana and *Sebastián Vallejo Vera*. “Gender Quotas and Woman Candidates”. *Working Paper*
+8. Dávila Gordillo, Diana and *Sebastián Vallejo Vera*. “Gender Quotas and Woman Candidates”. (Under Review)
+   
+10. Timoneda, Joan C., and *Sebastián Vallejo Vera*. "Memory Is All You Need: Testing How Model Memory Affects LLM Performance in Annotation Tasks." arXiv preprint arXiv:2503.04874 (2025). (Under Review)
 
 7. Vallejo Vera, Sebastián. "Performance of Maximum Likelihood Fixed Effects Estimation in Panel Data with Sample Selection Bias." *Under Review*
