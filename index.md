@@ -16,11 +16,11 @@ Links to my [CV](https://svallejovera.github.io/files/vallejo_cv.pdf), [Google S
 
 ## Peer-Reviewed Publications
 
-1. Timoneda, Joan C., and **Sebastián Vallejo Vera**. “BERT, RoBERTa or DeBERTa? Comparing Performance Across Transformer Models in Political Science Text.” *The Journal of Politics* (2025): 87.1 000-000. [PDF](https://svallejovera.github.io/files/bert_roberta_jop.pdf)
+1. Timoneda, Joan C., and **Sebastián Vallejo Vera**. “BERT, RoBERTa or DeBERTa? Comparing Performance Across Transformer Models in Political Science Text.” *The Journal of Politics* (2025): 87.1 347-364. [PDF](https://svallejovera.github.io/files/bert_roberta_jop.pdf)
 
 2. Timoneda, Joan C., and **Sebastián Vallejo Vera**. “Behind the Mask: Random and Selective Masking in Transformer Models Applied to Specialized Social Science Texts.” *PloS one* (2025): 20.2 e0318421 [PDF](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0318421&type=printable) [Replication Material](https://github.com/svallejovera/masking_plosone)
 
-1. Alemán, Eduardo, Tiffany Barnes, Juan Pablo Micozzi, and **Sebastián Vallejo Vera**. "Gender, Institutions, and Legislative Speeches." *Comparative Politics* (2025). [DOI](https://doi.org/10.5129/001041524X17260652667492) [PDF](https://svallejovera.github.io/files/gender_inst.pdf) [Replication Material](https://github.com/svallejovera/gender_inst_speeches)
+1. Alemán, Eduardo, Tiffany Barnes, Juan Pablo Micozzi, and **Sebastián Vallejo Vera**. "Gender, Institutions, and Legislative Speeches." *Comparative Politics* (2025): 57(2), 219-241. [DOI](https://doi.org/10.5129/001041524X17260652667492) [PDF](https://svallejovera.github.io/files/gender_inst.pdf) [Replication Material](https://github.com/svallejovera/gender_inst_speeches)
 
 1. Alemán, Eduardo, Pablo Valdivieso Kastner, and **Sebastián Vallejo Vera**. "Speech Targeting and Constituency Representation in Open-List Electoral Systems." *Electoral Studies* (2024): 92, 102865. [DOI](https://doi.org/10.1016/j.electstud.2024.102865) [PDF](https://svallejovera.github.io/files/speech_targeting.pdf)
    
