@@ -16,9 +16,11 @@ Links to my [CV](https://svallejovera.github.io/files/vallejo_cv.pdf), [Google S
 
 ## Peer-Reviewed Publications
 
-1. Timoneda, Joan C., and **Sebastián Vallejo Vera**. “BERT, RoBERTa or DeBERTa? Comparing Performance Across Transformer Models in Political Science Text.” *The Journal of Politics* (2025): 87.1 347-364. [PDF](https://svallejovera.github.io/files/bert_roberta_jop.pdf)
+1. **Vallejo Vera, Sebastián**, and Hunter Driggers. "LLMs as annotators: the effect of party cues on labelling decisions by large language models." *Humanities and Social Sciences Communications* 12, no. 1 (2025): 1-11. [PDF]()
+   
+3. Timoneda, Joan C., and **Sebastián Vallejo Vera**. “BERT, RoBERTa or DeBERTa? Comparing Performance Across Transformer Models in Political Science Text.” *The Journal of Politics* (2025): 87.1 347-364. [PDF](https://svallejovera.github.io/files/bert_roberta_jop.pdf)
 
-2. Timoneda, Joan C., and **Sebastián Vallejo Vera**. “Behind the Mask: Random and Selective Masking in Transformer Models Applied to Specialized Social Science Texts.” *PloS one* (2025): 20.2 e0318421 [PDF](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0318421&type=printable) [Replication Material](https://github.com/svallejovera/masking_plosone)
+4. Timoneda, Joan C., and **Sebastián Vallejo Vera**. “Behind the Mask: Random and Selective Masking in Transformer Models Applied to Specialized Social Science Texts.” *PloS one* (2025): 20.2 e0318421 [PDF](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0318421&type=printable) [Replication Material](https://github.com/svallejovera/masking_plosone)
 
 1. Alemán, Eduardo, Tiffany Barnes, Juan Pablo Micozzi, and **Sebastián Vallejo Vera**. "Gender, Institutions, and Legislative Speeches." *Comparative Politics* (2025): 57(2), 219-241. [DOI](https://doi.org/10.5129/001041524X17260652667492) [PDF](https://svallejovera.github.io/files/gender_inst.pdf) [Replication Material](https://github.com/svallejovera/gender_inst_speeches)
 
@@ -59,8 +61,6 @@ Links to my [CV](https://svallejovera.github.io/files/vallejo_cv.pdf), [Google S
 1. Vallejo Vera, Sebastián. 2018. [Angostura, 30-S y la (re)militarización de la seguridad interna en Ecuador](http://hdl.handle.net/10644/6551). Corporación Editora Nacional – Ecuador: 978-9978-84-997-2. [PDF](https://svallejovera.github.io/files/angsotura_2018.pdf)
 
 ## Working Papers
-
-1. *Vallejo Vera, Sebastián* and Hunter Driggers. "Bias in LLMs as Annotators: The Effect of Party Cues on Labelling Decision by Large Language Models." (2025). arXiv preprint arXiv:2408.15895. [PDF](https://arxiv.org/pdf/2408.15895) (R&R at Humanities and Social Sciences Communications - Nature)
 
 2. Dávila Gordillo, Diana, Joan C. Timoneda, and *Sebastián Vallejo Vera*. “Machines Do See Color: How Transformers Outperform Other Approaches in Classifying Overt and Covert Racism in Text.” (2024). arXiv preprint arXiv:2401.09333. [PDF](https://arxiv.org/pdf/2401.09333.pdf) (R&R at Sociological Methods and Research)
 
