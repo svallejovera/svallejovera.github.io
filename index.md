@@ -18,7 +18,7 @@ Links to my [CV](https://svallejovera.github.io/files/vallejo_cv.pdf), [Google S
 
 1. **Vallejo Vera, Sebastián**, and Hunter Driggers. "LLMs as annotators: the effect of party cues on labelling decisions by large language models." *Humanities and Social Sciences Communications* 12, no. 1 (2025): 1-11. [PDF](https://svallejovera.github.io/files/llm_as_coders_svv_hd.pdf)
    
-3. Timoneda, Joan C., and **Sebastián Vallejo Vera**. “BERT, RoBERTa or DeBERTa? Comparing Performance Across Transformer Models in Political Science Text.” *The Journal of Politics* (2025): 87.1 347-364. [PDF](https://svallejovera.github.io/files/bert_roberta_jop.pdf)
+3. Timoneda, Joan C., and **Sebastián Vallejo Vera**. “BERT, RoBERTa or DeBERTa? Comparing Performance Across Transformer Models in Political Science Text.” *The Journal of Politics* (2025): 87.1 347-364. [PDF](https://svallejovera.github.io/files/bert_roberta_jop.pdf) [Replication Material](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/3TZAEB)
 
 4. Timoneda, Joan C., and **Sebastián Vallejo Vera**. “Behind the Mask: Random and Selective Masking in Transformer Models Applied to Specialized Social Science Texts.” *PloS one* (2025): 20.2 e0318421 [PDF](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0318421&type=printable) [Replication Material](https://github.com/svallejovera/masking_plosone)
 
