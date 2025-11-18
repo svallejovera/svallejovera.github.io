@@ -16,6 +16,8 @@ Links to my [CV](https://svallejovera.github.io/files/vallejo_cv.pdf), [Google S
 
 ## Peer-Reviewed Publications
 
+2. **Sebastián Vallejo Vera**, Joan C. Timoneda, and Diana Dávila Gordillo. “Machines Do See Color: Using LLMs to Classify Overt and Covert Racism in Text.” (Conditionally Accepted) *Sociological Methods and Research*. arXiv preprint arXiv:2401.09333. [PDF](https://arxiv.org/pdf/2401.09333.pdf) [Replication Material](https://github.com/svallejovera/smr_racism)
+
 1. **Vallejo Vera, Sebastián**, and Hunter Driggers. "LLMs as annotators: the effect of party cues on labelling decisions by large language models." *Humanities and Social Sciences Communications* 12, no. 1 (2025): 1-11. [PDF](https://svallejovera.github.io/files/llm_as_coders_svv_hd.pdf)
    
 3. Timoneda, Joan C., and **Sebastián Vallejo Vera**. “BERT, RoBERTa or DeBERTa? Comparing Performance Across Transformer Models in Political Science Text.” *The Journal of Politics* (2025): 87.1 347-364. [PDF](https://svallejovera.github.io/files/bert_roberta_jop.pdf) [Replication Material](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/3TZAEB)
@@ -61,8 +63,6 @@ Links to my [CV](https://svallejovera.github.io/files/vallejo_cv.pdf), [Google S
 1. Vallejo Vera, Sebastián. 2018. [Angostura, 30-S y la (re)militarización de la seguridad interna en Ecuador](http://hdl.handle.net/10644/6551). Corporación Editora Nacional – Ecuador: 978-9978-84-997-2. [PDF](https://svallejovera.github.io/files/angsotura_2018.pdf)
 
 ## Working Papers
-
-2. Dávila Gordillo, Diana, Joan C. Timoneda, and *Sebastián Vallejo Vera*. “Machines Do See Color: How Transformers Outperform Other Approaches in Classifying Overt and Covert Racism in Text.” (2024). arXiv preprint arXiv:2401.09333. [PDF](https://arxiv.org/pdf/2401.09333.pdf) (R&R at Sociological Methods and Research)
 
 8. Dávila Gordillo, Diana and *Sebastián Vallejo Vera*. “Gender Quotas and Woman Candidates”. (Under Review)
    
