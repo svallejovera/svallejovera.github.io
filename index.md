@@ -16,9 +16,9 @@ Links to my [CV](https://svallejovera.github.io/files/vallejo_cv.pdf), [Google S
 
 ## Peer-Reviewed Publications
 
-2. **Sebastián Vallejo Vera**, Joan C. Timoneda, and Diana Dávila Gordillo. “Machines Do See Color: Using LLMs to Classify Overt and Covert Racism in Text.” (Conditionally Accepted) *Sociological Methods and Research*. arXiv preprint arXiv:2401.09333. [PDF](https://arxiv.org/pdf/2401.09333.pdf) [Replication Material](https://github.com/svallejovera/smr_racism)
+1. **Sebastián Vallejo Vera**, Joan C. Timoneda, and Diana Dávila Gordillo. “Machines Do See Color: Using LLMs to Classify Overt and Covert Racism in Text.” (Conditionally Accepted) *Sociological Methods and Research*. arXiv preprint arXiv:2401.09333. [PDF](https://arxiv.org/pdf/2401.09333.pdf) [Replication Material](https://github.com/svallejovera/smr_racism)
 
-1. **Vallejo Vera, Sebastián**, and Hunter Driggers. "LLMs as annotators: the effect of party cues on labelling decisions by large language models." *Humanities and Social Sciences Communications* 12, no. 1 (2025): 1-11. [PDF](https://svallejovera.github.io/files/llm_as_coders_svv_hd.pdf)
+2. **Vallejo Vera, Sebastián**, and Hunter Driggers. "LLMs as annotators: the effect of party cues on labelling decisions by large language models." *Humanities and Social Sciences Communications* 12, no. 1 (2025): 1-11. [PDF](https://svallejovera.github.io/files/llm_as_coders_svv_hd.pdf)
    
 3. Timoneda, Joan C., and **Sebastián Vallejo Vera**. “BERT, RoBERTa or DeBERTa? Comparing Performance Across Transformer Models in Political Science Text.” *The Journal of Politics* (2025): 87.1 347-364. [PDF](https://svallejovera.github.io/files/bert_roberta_jop.pdf) [Replication Material](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/3TZAEB)
 
