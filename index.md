@@ -16,43 +16,45 @@ Links to my [CV](https://svallejovera.github.io/files/vallejo_cv.pdf), [Google S
 
 ## Peer-Reviewed Publications
 
-1. **Sebastián Vallejo Vera**, Joan C. Timoneda, and Diana Dávila Gordillo. “Machines Do See Color: Using LLMs to Classify Overt and Covert Racism in Text.” (Conditionally Accepted) *Sociological Methods and Research*. arXiv preprint arXiv:2401.09333. [PDF](https://arxiv.org/pdf/2401.09333.pdf) [Replication Material](https://github.com/svallejovera/smr_racism)
+1. Timoneda, J. C., & **Vallejo Vera, S.** (2026). Rolling memory: A new approach to annotation with generative LLMs in social and political research. *Chinese Political Science Review*, 1–15. [PDF](https://svallejovera.github.io/files/rolling_memory_jt_svv.pdf)
 
-2. **Vallejo Vera, Sebastián**, and Hunter Driggers. "LLMs as annotators: the effect of party cues on labelling decisions by large language models." *Humanities and Social Sciences Communications* 12, no. 1 (2025): 1-11. [PDF](https://svallejovera.github.io/files/llm_as_coders_svv_hd.pdf)
-   
-3. Timoneda, Joan C., and **Sebastián Vallejo Vera**. “BERT, RoBERTa or DeBERTa? Comparing Performance Across Transformer Models in Political Science Text.” *The Journal of Politics* (2025): 87.1 347-364. [PDF](https://svallejovera.github.io/files/bert_roberta_jop.pdf) [Replication Material](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/3TZAEB)
+1. **Vallejo Vera, S.**, Timoneda, J. C., & Dávila Gordillo, D. (in press). Machines do see color: Using LLMs to classify overt and covert racism in text. *Sociological Methods & Research*. arXiv:2401.09333. [PDF](https://arxiv.org/pdf/2401.09333.pdf) [Replication Material](https://github.com/svallejovera/smr_racism)
 
-4. Timoneda, Joan C., and **Sebastián Vallejo Vera**. “Behind the Mask: Random and Selective Masking in Transformer Models Applied to Specialized Social Science Texts.” *PloS one* (2025): 20.2 e0318421 [PDF](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0318421&type=printable) [Replication Material](https://github.com/svallejovera/masking_plosone)
+2. **Vallejo Vera, S.**, & Driggers, H. (2025). LLMs as annotators: The effect of party cues on labelling decisions by large language models. *Humanities and Social Sciences Communications, 12*(1), 1–11. [PDF](https://svallejovera.github.io/files/llm_as_coders_svv_hd.pdf)
 
-1. Alemán, Eduardo, Tiffany Barnes, Juan Pablo Micozzi, and **Sebastián Vallejo Vera**. "Gender, Institutions, and Legislative Speeches." *Comparative Politics* (2025): 57(2), 219-241. [DOI](https://doi.org/10.5129/001041524X17260652667492) [PDF](https://svallejovera.github.io/files/gender_inst.pdf) [Replication Material](https://github.com/svallejovera/gender_inst_speeches)
+3. Timoneda, J. C., & **Vallejo Vera, S.** (2025). BERT, RoBERTa or DeBERTa? Comparing performance across Transformer models in political science text. *The Journal of Politics, 87*(1), 347–364. [PDF](https://svallejovera.github.io/files/bert_roberta_jop.pdf) [Replication Material](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/3TZAEB)
 
-1. Alemán, Eduardo, Pablo Valdivieso Kastner, and **Sebastián Vallejo Vera**. "Speech Targeting and Constituency Representation in Open-List Electoral Systems." *Electoral Studies* (2024): 92, 102865. [DOI](https://doi.org/10.1016/j.electstud.2024.102865) [PDF](https://svallejovera.github.io/files/speech_targeting.pdf)
-   
-3. Hellmueller, Lea, Lindita Camaj, **Sebastián Vallejo Vera**, and Peggy Lindner. "The Impact of Journalistic Cultures on Social Media Discourse: US Primary Debates in Cross-Lingual Online Spaces." *Digital Journalism* (2024): 1-21. [DOI](https://doi.org/10.1080/21670811.2024.2402371) [PDF](https://svallejovera.github.io/files/journalism_cultures.pdf)
+4. Timoneda, J. C., & **Vallejo Vera, S.** (2025). Behind the mask: Random and selective masking in Transformer models applied to specialized social science texts. *PLOS ONE, 20*(2), e0318421. [PDF](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0318421&type=printable) [Replication Material](https://github.com/svallejovera/masking_plosone)
 
-5. Camaj, Lindita, Lea Hellmueller, **Sebastián Vallejo Vera**, and Peggy Lindner. "The Democratic Value of Strategic Game Reporting and Uncivil Talk: A Computational Analysis of Facebook Conversations During U.S. Primary Debates". *Journalism & Mass Communication Quarterly* (2024): 101(2), 428-450. [DOI](https://doi.org/10.1177/10776990231226403) [PDF](https://svallejovera.github.io/files/democratic_value_2024.pdf)
-   
-1. **Vallejo Vera, Sebastián**. "Rage in the Machine: Activation of Racist Content in Social Media." *Latin American Politics and Society* (2023): 65(1), 74-100. doi:10.1017/lap.2022.25. [DOI](https://doi.org/10.1017/lap.2022.25) [PDF](https://svallejovera.github.io/files/rage_in_machine.pdf)
+5. Alemán, E., Barnes, T., Micozzi, J. P., & **Vallejo Vera, S.** (2025). Gender, institutions, and legislative speeches. *Comparative Politics, 57*(2), 219–241. [DOI](https://doi.org/10.5129/001041524X17260652667492) [PDF](https://svallejovera.github.io/files/gender_inst.pdf) [Replication Material](https://github.com/svallejovera/gender_inst_speeches)
 
-7. Alemán, Eduardo, Juan Pablo Micozzi, and **Sebastián Vallejo Vera**. "Congressional Committees, Electoral Connections, and Legislative Speech." *Political Research Quarterly* (2022): 10659129221119200. [DOI](https://doi.org/10.1177/10659129221119200) [PDF](https://svallejovera.github.io/files/Congressional_committees.pdf)
+6. Alemán, E., Valdivieso Kastner, P., & **Vallejo Vera, S.** (2024). Speech targeting and constituency representation in open-list electoral systems. *Electoral Studies, 92*, 102865. [DOI](https://doi.org/10.1016/j.electstud.2024.102865) [PDF](https://svallejovera.github.io/files/speech_targeting.pdf)
 
-4. Abad, Angelica, Raul Aldaz Pena, Diana Davila Gordillo, and **Sebastián Vallejo Vera**. "An Unwelcomed Deja-vu: Ecuadorian Politics in 2021." *Revista de Ciencia Política* 42, no. 2 (2022): 281-308. [DOI](https://www.scielo.cl/scielo.php?script=sci_arttext&pid=S0718-090X2022005000112&lng=en&nrm=iso&tlng=en) [PDF](https://www.scielo.cl/pdf/revcipol/v42n2/0718-090X-revcipol-S0718-090X2022005000112.pdf)
- 
-3. **Vallejo Vera, Sebastián**, and Analía Gómez Vidal. "The politics of interruptions: Gendered disruptions of legislative speeches." *The Journal of Politics* 84, no. 3 (2022): 1384-1402. [DOI](https://doi.org/10.1086/717083) [PDF](https://svallejovera.github.io/files/interruptions_forth.pdf) [Replication Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/6IRAEM) [Media](https://jop.blogs.uni-hamburg.de/im-speaking-interruptions-in-legislative-speeches-and-womens-strategic-behavior/)
+7. Hellmueller, L., Camaj, L., **Vallejo Vera, S.**, & Lindner, P. (2024). The impact of journalistic cultures on social media discourse: US primary debates in cross-lingual online spaces. *Digital Journalism*, 1–21. [DOI](https://doi.org/10.1080/21670811.2024.2402371) [PDF](https://svallejovera.github.io/files/journalism_cultures.pdf)
 
-4. Currin, Christopher Brian, **Sebastián Vallejo Vera**, and Ali Khaledi-Nasab. "Depolarization of echo chambers by random dynamical nudge." *Scientific Reports* 12, no. 1 (2022): 1-13. [DOI](https://doi.org/10.1038/s41598-022-12494-w) [PDF](https://www.nature.com/articles/s41598-022-12494-w.pdf)
+8. Camaj, L., Hellmueller, L., **Vallejo Vera, S.**, & Lindner, P. (2024). The democratic value of strategic game reporting and uncivil talk: A computational analysis of Facebook conversations during U.S. primary debates. *Journalism & Mass Communication Quarterly, 101*(2), 428–450. [DOI](https://doi.org/10.1177/10776990231226403) [PDF](https://svallejovera.github.io/files/democratic_value_2024.pdf)
 
-2. Abad Cisneros, Angélica, Raúl Aldaz Peña, Diana Dávila Gordillo, and **Sebastián Vallejo Vera**. "Believe in me: parties’ strategies during a pandemic, evidence from Ecuador." *Journal of Politics in Latin America* 13, no. 3 (2021): 419-441. [DOI](https://doi:10.1177/1866802X211058742) [PDF](https://svallejovera.github.io/files/Believe_in_me.pdf)
+9. **Vallejo Vera, S.** (2023). Rage in the machine: Activation of racist content in social media. *Latin American Politics and Society, 65*(1), 74–100. [DOI](https://doi.org/10.1017/lap.2022.25) [PDF](https://svallejovera.github.io/files/rage_in_machine.pdf)
 
-3. Timoneda, Joan C., and **Sebastián Vallejo Vera**. "Will I die of coronavirus? Google Trends data reveal that politics determine virus fears." *Plos one* 16, no. 10 (2021): e0258189. [DOI](https://doi.org/10.1371/journal.pone.0258189) [PDF](https://svallejovera.github.io/files/will_i_die_2021.pdf) [Media](https://www.psypost.org/2021/11/analysis-of-google-search-data-indicates-politics-played-a-major-role-in-shaping-covid-19-fears-in-the-united-states-62083)
+10. Alemán, E., Micozzi, J. P., & **Vallejo Vera, S.** (2022). Congressional committees, electoral connections, and legislative speech. *Political Research Quarterly*. [DOI](https://doi.org/10.1177/10659129221119200) [PDF](https://svallejovera.github.io/files/Congressional_committees.pdf)
 
-4. Calvo, Ernesto, Paula Clerici, and **Sebastián Vallejo Vera**. "Ciencia y política en tiempos del covid-19." *Política y gobierno* 28, no. 2 (2021). [HTTP](http://politicaygobierno.cide.edu/index.php/pyg/article/view/1542) [PDF](https://svallejovera.github.io/files/ciencia_2021.pdf)
+11. Abad, A., Aldaz Peña, R., Davila Gordillo, D., & **Vallejo Vera, S.** (2022). An unwelcomed deja-vu: Ecuadorian politics in 2021. *Revista de Ciencia Política, 42*(2), 281–308. [DOI](https://www.scielo.cl/scielo.php?script=sci_arttext&pid=S0718-090X2022005000112&lng=en&nrm=iso&tlng=en) [PDF](https://www.scielo.cl/pdf/revcipol/v42n2/0718-090X-revcipol-S0718-090X2022005000112.pdf)
 
-5. Timoneda, Joan C., and **Sebastián Vallejo Vera**. "How do shocks realign interest group lobbying in congress? Evidence from Ecuador." *The Journal of Legislative Studies* (2021): 1-39. [DOI](https://doi.org/10.1080/13572334.2021.1924434) [PDF](https://svallejovera.github.io/files/shocks_2021.pdf)
+12. **Vallejo Vera, S.**, & Gómez Vidal, A. (2022). The politics of interruptions: Gendered disruptions of legislative speeches. *The Journal of Politics, 84*(3), 1384–1402. [DOI](https://doi.org/10.1086/717083) [PDF](https://svallejovera.github.io/files/interruptions_forth.pdf) [Replication Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/6IRAEM) [Media](https://jop.blogs.uni-hamburg.de/im-speaking-interruptions-in-legislative-speeches-and-womens-strategic-behavior/)
 
-6. **Vallejo Vera, Sebastián**. "By invitation only: On Why Do politicians bring interest groups into committees." *The Journal of Legislative Studies* (2021): 1-38. [DOI](https://doi.org/10.1080/13572334.2021.1905327) [PDF](https://svallejovera.github.io/files/invitation_2021.pdf)
+13. Currin, C. B., **Vallejo Vera, S.**, & Khaledi-Nasab, A. (2022). Depolarization of echo chambers by random dynamical nudge. *Scientific Reports, 12*(1), 1–13. [DOI](https://doi.org/10.1038/s41598-022-12494-w) [PDF](https://www.nature.com/articles/s41598-022-12494-w.pdf)
 
-7. McDermott, Monika L., Douglas Schwartz, and **Sebastian Vallejo Vera**. "Talking the talk but not walking the walk: Public reactions to hypocrisy in political scandal." *American Politics Research* 43, no. 6 (2015): 952-974. [DOI](https://doi.org/10.1177/1532673X15577830) [PDF](https://svallejovera.github.io/files/talking_the_talk_2015.pdf)
+14. Abad Cisneros, A., Aldaz Peña, R., Dávila Gordillo, D., & **Vallejo Vera, S.** (2021). Believe in me: Parties’ strategies during a pandemic, evidence from Ecuador. *Journal of Politics in Latin America, 13*(3), 419–441. [DOI](https://doi:10.1177/1866802X211058742) [PDF](https://svallejovera.github.io/files/Believe_in_me.pdf)
+
+15. Timoneda, J. C., & **Vallejo Vera, S.** (2021). Will I die of coronavirus? Google Trends data reveal that politics determine virus fears. *PLOS ONE, 16*(10), e0258189. [DOI](https://doi.org/10.1371/journal.pone.0258189) [PDF](https://svallejovera.github.io/files/will_i_die_2021.pdf) [Media](https://www.psypost.org/2021/11/analysis-of-google-search-data-indicates-politics-played-a-major-role-in-shaping-covid-19-fears-in-the-united-states-62083)
+
+16. Calvo, E., Clerici, P., & **Vallejo Vera, S.** (2021). Ciencia y política en tiempos del covid-19. *Política y gobierno, 28*(2). [HTTP](http://politicaygobierno.cide.edu/index.php/pyg/article/view/1542) [PDF](https://svallejovera.github.io/files/ciencia_2021.pdf)
+
+17. Timoneda, J. C., & **Vallejo Vera, S.** (2021). How do shocks realign interest group lobbying in congress? Evidence from Ecuador. *The Journal of Legislative Studies*, 1–39. [DOI](https://doi.org/10.1080/13572334.2021.1924434) [PDF](https://svallejovera.github.io/files/shocks_2021.pdf)
+
+18. **Vallejo Vera, S.** (2021). By invitation only: On why do politicians bring interest groups into committees. *The Journal of Legislative Studies*, 1–38. [DOI](https://doi.org/10.1080/13572334.2021.1905327) [PDF](https://svallejovera.github.io/files/invitation_2021.pdf)
+
+19. McDermott, M. L., Schwartz, D., & **Vallejo Vera, S.** (2015). Talking the talk but not walking the walk: Public reactions to hypocrisy in political scandal. *American Politics Research, 43*(6), 952–974. [DOI](https://doi.org/10.1177/1532673X15577830) [PDF](https://svallejovera.github.io/files/talking_the_talk_2015.pdf)
 
 ## Book Chapters
 
