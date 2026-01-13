@@ -16,7 +16,7 @@ Links to my [CV](https://svallejovera.github.io/files/vallejo_cv.pdf), [Google S
 
 ## Peer-Reviewed Publications
 
-1. Timoneda, J. C., & **Vallejo Vera, S.** (2026). Rolling memory: A new approach to annotation with generative LLMs in social and political research. *Chinese Political Science Review*, 1–15. [PDF](https://svallejovera.github.io/files/rolling_memory_jt_svv.pdf)
+1. Timoneda, J. C., & **Vallejo Vera, S.** (2026). Rolling memory: A new approach to annotation with generative LLMs in social and political research. *Chinese Political Science Review*, 1–15. [PDF](https://github.com/svallejovera/svallejovera.github.io/blob/master/files/rolling_memory_jt_svv.pdf)
 
 1. **Vallejo Vera, S.**, Timoneda, J. C., & Dávila Gordillo, D. (in press). Machines do see color: Using LLMs to classify overt and covert racism in text. *Sociological Methods & Research*. arXiv:2401.09333. [PDF](https://arxiv.org/pdf/2401.09333.pdf) [Replication Material](https://github.com/svallejovera/smr_racism)
 
