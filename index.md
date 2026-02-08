@@ -18,7 +18,7 @@ Links to my [CV](https://svallejovera.github.io/files/vallejo_cv.pdf), [Google S
 
 1. Timoneda, J. C., & **Vallejo Vera, S.** (2026). Rolling memory: A new approach to annotation with generative LLMs in social and political research. *Chinese Political Science Review*, 1–15. [PDF](https://github.com/svallejovera/svallejovera.github.io/blob/master/files/rolling_memory_jt_svv.pdf)
 
-1. **Vallejo Vera, S.**, Timoneda, J. C., & Dávila Gordillo, D. (in press). Machines do see color: Using LLMs to classify overt and covert racism in text. *Sociological Methods & Research*. arXiv:2401.09333. [PDF](https://arxiv.org/pdf/2401.09333.pdf) [Replication Material](https://github.com/svallejovera/smr_racism)
+1. **Vallejo Vera, S.**, Timoneda, J. C., & Dávila Gordillo, D. (2026). Machines do see color: Using LLMs to classify overt and covert racism in text. *Sociological Methods & Research*, 0(0). [DOI](https://journals.sagepub.com/doi/10.1177/00491241251412360) [PDF](https://github.com/svallejovera/svallejovera.github.io/blob/master/files/racism_smr.pdf) [Replication Material](https://github.com/svallejovera/smr_racism)
 
 2. **Vallejo Vera, S.**, & Driggers, H. (2025). LLMs as annotators: The effect of party cues on labelling decisions by large language models. *Humanities and Social Sciences Communications, 12*(1), 1–11. [PDF](https://svallejovera.github.io/files/llm_as_coders_svv_hd.pdf)
 
